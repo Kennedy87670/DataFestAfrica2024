@@ -1,7 +1,7 @@
 
 ---
 
-# DataFestAfrica Hackathon 2024: Improving Academic Outcomes For Secondary Education
+# DataFestAfrica Hackathon 2024 TEAM ZERO: Improving Academic Outcomes For Secondary Education
 
 ## 🎯 Project Brief
 ### Project Title:
