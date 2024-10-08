@@ -26,7 +26,7 @@ The quality of education at Laurel High has faced several challenges that hinder
 
 ## 🛠️ Tools & Technologies
 - **Python Libraries**: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `shap`, `matplotlib`, `seaborn`
-- **Visualization**: `matplotlib`, `seaborn`, `SHAP`
+- **Visualization**: `matplotlib`, `seaborn`, 
 - **Machine Learning**: `scikit-learn`, `xgboost`, `optuna`
 - **Data Preprocessing**: `scikit-learn`, `pandas`
 
