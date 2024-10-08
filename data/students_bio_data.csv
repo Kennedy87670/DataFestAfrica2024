@@ -1,0 +1,601 @@
+Student ID,First Name,Last Name,Gender,Age,Date of Birth,Health Status,Disorder,State of Origin,LGA of residence,Home Address,Living Arrangement,Email,Grade Level,Stream,Extracurricular Activities,Admission Date,Graduation Date
+STU001,Ijeoma,Ochoja,Male,13,2011-08-11,Poor,No,Kogi,Badagry,"49, Avenue in Badagry, Lagos State",Day,ijeoma.ochoja@laurelhigh.com,JSS1,General,Clubs,2019-09-01,2024-06-30
+STU002,Kingsley,Nwadi,Female,20,2004-08-22,Good,No,Gombe,Alimosho,"11, Avenue in Alimosho, Lagos State",Day,kingsley.nwadi@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU003,Sani,Egbon,Male,16,2008-11-22,Average,No,Lagos,Lagos Mainland,"15, Avenue in Lagos Mainland, Lagos State",Boarding,sani.egbon@laurelhigh.com,JSS3,General,Sports,2017-09-01,2020-06-30
+STU004,Harisu,Ibiam,Female,14,2010-05-10,Poor,No,Nasarawa,Mushin,"28, Street in Mushin, Lagos State",Day,harisu.ibiam@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU005,Mhungur,James,Female,18,2006-06-03,Good,No,Imo,Oshodi-Isolo,"72, Road in Oshodi-Isolo, Lagos State",Day,mhungur.james@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU006,Sunday,Egbon,Female,19,2005-11-14,Good,No,Abia,Ojo,"52, Road in Ojo, Lagos State",Day,sunday.egbon@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU007,Ayodele,Oluwole,Female,16,2008-07-19,Good,Yes,Edo,Apapa,"14, Street in Apapa, Lagos State",Boarding,ayodele.oluwole@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU008,Tajudeen,Stephen,Male,18,2006-09-17,Good,No,Anambra,Apapa,"82, Street in Apapa, Lagos State",Day,tajudeen.stephen@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU009,Jamilu,Adeleke,Female,12,2012-11-03,Poor,No,Borno,Mushin,"78, Street in Mushin, Lagos State",Boarding,jamilu.adeleke@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU010,Oluwaseun,Kelechi,Male,11,2013-11-10,Good,No,Abia,Ajeromi-Ifelodun,"61, Avenue in Ajeromi-Ifelodun, Lagos State",Boarding,oluwaseun.kelechi@laurelhigh.com,SS2,General,None,2017-09-01,2018-06-30
+STU011,Lovina,Njoku,Female,15,2009-11-28,Good,No,Delta,Alimosho,"37, Street in Alimosho, Lagos State",Day,lovina.njoku@laurelhigh.com,SS3,Engineering,Debate,2021-09-01,2021-06-30
+STU012,Terhemba,Okafor,Male,19,2005-03-02,Good,No,Oyo,Lagos Island,"61, Road in Lagos Island, Lagos State",Day,terhemba.okafor@laurelhigh.com,JSS3,General,"Sports, Music",2019-09-01,2022-06-30
+STU013,Sadiq,Osakwe,Male,18,2006-06-12,Average,No,Delta,Badagry,"79, Street in Badagry, Lagos State",Boarding,sadiq.osakwe@laurelhigh.com,SS3,Pure Science,Clubs,2018-09-01,2018-06-30
+STU014,Felix,Abdullahi,Male,20,2004-05-24,Average,No,Anambra,Ikorodu,"50, Avenue in Ikorodu, Lagos State",Boarding,felix.abdullahi@laurelhigh.com,SS3,Art,None,2017-09-01,2017-06-30
+STU015,Ude,Udofia,Female,11,2013-07-21,Poor,No,Akwa Ibom,Epe,"40, Road in Epe, Lagos State",Boarding,ude.udofia@laurelhigh.com,SS2,Engineering,None,2020-09-01,2021-06-30
+STU016,Esther,Oyeniran,Male,13,2011-04-08,Poor,No,Enugu,Kosofe,"44, Avenue in Kosofe, Lagos State",Day,esther.oyeniran@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU017,Sunday,Yaro,Female,19,2005-03-06,Average,No,Anambra,Ikeja,"49, Street in Ikeja, Lagos State",Boarding,sunday.yaro@laurelhigh.com,SS3,Art,Sports,2017-09-01,2017-06-30
+STU018,Nanle,Mohammed,Female,14,2010-08-08,Average,No,Kano,Epe,"97, Road in Epe, Lagos State",Boarding,nanle.mohammed@laurelhigh.com,JSS3,General,"Debate, Music",2019-09-01,2022-06-30
+STU019,Lovina,Njoku,Male,18,2006-04-26,Good,No,Sokoto,Badagry,"54, Street in Badagry, Lagos State",Day,lovina.njoku@laurelhigh.com,SS1,General,Drama,2019-09-01,2021-06-30
+STU020,Femi,Okafor,Male,17,2007-07-03,Good,No,Benue,Shomolu,"66, Street in Shomolu, Lagos State",Boarding,femi.okafor@laurelhigh.com,SS3,Pure Science,"Sports, Debate",2020-09-01,2020-06-30
+STU021,Lovina,Anaba,Female,11,2013-01-11,Average,No,Enugu,Surulere,"48, Street in Surulere, Lagos State",Boarding,lovina.anaba@laurelhigh.com,SS3,Art,None,2019-09-01,2019-06-30
+STU022,Agai,Adebayo,Female,19,2005-01-09,Poor,No,Bauchi,Ajeromi-Ifelodun,"1, Street in Ajeromi-Ifelodun, Lagos State",Day,agai.adebayo@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU023,Haladu,Abraham,Female,11,2013-07-21,Average,No,Sokoto,Eti-Osa,"7, Street in Eti-Osa, Lagos State",Day,haladu.abraham@laurelhigh.com,SS2,General,None,2018-09-01,2019-06-30
+STU024,Ngozi,Ibiam,Male,12,2012-01-20,Poor,No,Lagos,Oshodi-Isolo,"38, Avenue in Oshodi-Isolo, Lagos State",Boarding,ngozi.ibiam@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU025,Bisi,Usman,Female,18,2006-07-28,Average,No,Ogun,Badagry,"71, Street in Badagry, Lagos State",Day,bisi.usman@laurelhigh.com,JSS3,General,"Drama, Sports",2018-09-01,2021-06-30
+STU026,Abdullahi,Ogunyemi,Male,15,2009-06-18,Good,No,Kano,Ibeju-Lekki,"18, Street in Ibeju-Lekki, Lagos State",Day,abdullahi.ogunyemi@laurelhigh.com,JSS2,General,"Debate, Clubs",2020-09-01,2024-06-30
+STU027,Abiodun,Yahaya,Female,13,2011-01-11,Poor,Yes,Edo,Eti-Osa,"6, Street in Eti-Osa, Lagos State",Day,abiodun.yahaya@laurelhigh.com,SS3,Pure Science,"Clubs, Debate",2017-09-01,2017-06-30
+STU028,Omotola,Ejugwu,Female,10,2014-05-04,Good,No,Yobe,Lagos Mainland,"84, Avenue in Lagos Mainland, Lagos State",Day,omotola.ejugwu@laurelhigh.com,SS2,Pure Science,Debate,2018-09-01,2019-06-30
+STU029,Haladu,Afolayan,Male,14,2010-07-03,Average,No,Ekiti,Badagry,"11, Road in Badagry, Lagos State",Day,haladu.afolayan@laurelhigh.com,JSS3,General,Drama,2020-09-01,2023-06-30
+STU030,Hassanat,Rasaki,Female,19,2005-03-23,Poor,Yes,Sokoto,Ajeromi-Ifelodun,"92, Avenue in Ajeromi-Ifelodun, Lagos State",Boarding,hassanat.rasaki@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU031,Hassan,Okafor,Male,15,2009-11-06,Poor,No,Nasarawa,Surulere,"66, Road in Surulere, Lagos State",Day,hassan.okafor@laurelhigh.com,SS3,Engineering,Debate,2020-09-01,2020-06-30
+STU032,Bisi,Usman,Male,16,2008-10-05,Poor,No,Kano,Lagos Mainland,"73, Street in Lagos Mainland, Lagos State",Day,bisi.usman@laurelhigh.com,SS1,Commercial,None,2019-09-01,2021-06-30
+STU033,Fatai,Oni,Male,20,2004-02-01,Good,No,Enugu,Lagos Island,"36, Street in Lagos Island, Lagos State",Boarding,fatai.oni@laurelhigh.com,SS2,Engineering,None,2018-09-01,2019-06-30
+STU034,Emmanuel,Okolie,Female,19,2005-08-07,Average,No,Katsina,Mushin,"37, Road in Mushin, Lagos State",Day,emmanuel.okolie@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU035,Johnson,Oyedepo,Male,18,2006-05-28,Good,No,Abia,Apapa,"70, Avenue in Apapa, Lagos State",Day,johnson.oyedepo@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU036,Sani,Igbo,Male,10,2014-10-12,Poor,No,Bauchi,Amuwo-Odofin,"47, Road in Amuwo-Odofin, Lagos State",Day,sani.igbo@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU037,Ude,Udofia,Female,16,2008-10-03,Good,No,Akwa Ibom,Badagry,"99, Avenue in Badagry, Lagos State",Boarding,ude.udofia@laurelhigh.com,JSS1,General,Debate,2019-09-01,2024-06-30
+STU038,Khadijah,Femi,Male,12,2012-01-27,Poor,No,Osun,Kosofe,"56, Road in Kosofe, Lagos State",Boarding,khadijah.femi@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU039,Anzaku,Ladan,Male,14,2010-04-21,Good,No,Kaduna,Badagry,"11, Avenue in Badagry, Lagos State",Day,anzaku.ladan@laurelhigh.com,SS3,Art,Clubs,2019-09-01,2019-06-30
+STU040,Abiodun,Ishaya,Male,19,2005-01-27,Average,No,Borno,Epe,"44, Road in Epe, Lagos State",Boarding,abiodun.ishaya@laurelhigh.com,SS3,General,"Clubs, Drama",2021-09-01,2021-06-30
+STU041,Femi,Anyanwu,Male,14,2010-08-08,Good,No,Kogi,Ikorodu,"83, Avenue in Ikorodu, Lagos State",Day,femi.anyanwu@laurelhigh.com,SS3,Commercial,None,2018-09-01,2018-06-30
+STU042,Joy,Ogidi,Male,13,2011-03-11,Good,No,Bayelsa,Ajeromi-Ifelodun,"44, Road in Ajeromi-Ifelodun, Lagos State",Boarding,joy.ogidi@laurelhigh.com,SS3,Commercial,"Music, Drama",2019-09-01,2019-06-30
+STU043,Oleje,Olorunfemi,Male,17,2007-02-02,Good,No,Edo,Shomolu,"32, Street in Shomolu, Lagos State",Boarding,oleje.olorunfemi@laurelhigh.com,JSS2,General,"Debate, Music",2018-09-01,2022-06-30
+STU044,Anzaku,Ladan,Female,12,2012-08-16,Good,No,Oyo,Mushin,"64, Road in Mushin, Lagos State",Boarding,anzaku.ladan@laurelhigh.com,SS3,General,None,2018-09-01,2018-06-30
+STU045,Abba,Sanbauna,Male,15,2009-05-16,Average,No,Kano,Ibeju-Lekki,"7, Street in Ibeju-Lekki, Lagos State",Day,abba.sanbauna@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU046,Zaharudeen,Okoro,Female,16,2008-07-02,Poor,No,Bauchi,Lagos Mainland,"47, Street in Lagos Mainland, Lagos State",Day,zaharudeen.okoro@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU047,Tolu,Odoh,Female,14,2010-10-04,Poor,No,Lagos,Ikorodu,"80, Road in Ikorodu, Lagos State",Boarding,tolu.odoh@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU048,Sani,Egbon,Male,18,2006-01-02,Poor,No,Borno,Epe,"52, Road in Epe, Lagos State",Day,sani.egbon@laurelhigh.com,JSS1,General,"Clubs, Debate",2019-09-01,2024-06-30
+STU049,Hassanat,Rasaki,Female,19,2005-10-11,Average,No,Abia,Surulere,"95, Avenue in Surulere, Lagos State",Boarding,hassanat.rasaki@laurelhigh.com,JSS3,General,Clubs,2017-09-01,2020-06-30
+STU050,Amadi,Omora,Male,20,2004-10-10,Average,No,Kogi,Lagos Island,"15, Avenue in Lagos Island, Lagos State",Day,amadi.omora@laurelhigh.com,SS2,Engineering,None,2021-09-01,2022-06-30
+STU051,Adekunle,Okon,Male,20,2004-07-05,Good,No,Rivers,Badagry,"93, Road in Badagry, Lagos State",Day,adekunle.okon@laurelhigh.com,SS3,General,Sports,2020-09-01,2020-06-30
+STU052,Joy,Ogidi,Male,16,2008-07-17,Average,No,Abia,Ikeja,"89, Street in Ikeja, Lagos State",Boarding,joy.ogidi@laurelhigh.com,SS2,General,Clubs,2018-09-01,2019-06-30
+STU053,Jerome,Augustine,Male,15,2009-09-11,Poor,Yes,Rivers,Surulere,"23, Avenue in Surulere, Lagos State",Boarding,jerome.augustine@laurelhigh.com,JSS3,General,Music,2019-09-01,2022-06-30
+STU054,Inimfon,Akinola,Female,14,2010-12-23,Average,No,Zamfara,Eti-Osa,"91, Street in Eti-Osa, Lagos State",Boarding,inimfon.akinola@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU055,Alice,Isong,Female,16,2008-05-02,Poor,No,Oyo,Surulere,"45, Street in Surulere, Lagos State",Boarding,alice.isong@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU056,Adebayo,Ibrahim,Male,18,2006-12-09,Average,No,Rivers,Mushin,"35, Road in Mushin, Lagos State",Day,adebayo.ibrahim@laurelhigh.com,JSS1,General,Music,2017-09-01,2022-06-30
+STU057,Tunde,Ibiam,Male,10,2014-06-23,Average,No,Ogun,Oshodi-Isolo,"13, Avenue in Oshodi-Isolo, Lagos State",Boarding,tunde.ibiam@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU058,Vivian,Oluwasanmi,Male,14,2010-11-02,Poor,No,Rivers,Mushin,"42, Avenue in Mushin, Lagos State",Day,vivian.oluwasanmi@laurelhigh.com,SS3,Engineering,None,2021-09-01,2021-06-30
+STU059,Blessing,Udofia,Female,17,2007-05-02,Poor,No,Taraba,Surulere,"24, Road in Surulere, Lagos State",Boarding,blessing.udofia@laurelhigh.com,JSS1,General,Drama,2017-09-01,2022-06-30
+STU060,Felicia,Okafor,Male,12,2012-05-07,Average,No,Ondo,Amuwo-Odofin,"65, Avenue in Amuwo-Odofin, Lagos State",Day,felicia.okafor@laurelhigh.com,SS3,Art,Drama,2019-09-01,2019-06-30
+STU061,Peter,Adebayo,Female,20,2004-03-20,Average,No,Anambra,Ibeju-Lekki,"97, Street in Ibeju-Lekki, Lagos State",Day,peter.adebayo@laurelhigh.com,SS3,Pure Science,Sports,2018-09-01,2018-06-30
+STU062,Emeka,Udo,Female,13,2011-07-08,Good,Yes,Bauchi,Lagos Island,"1, Avenue in Lagos Island, Lagos State",Boarding,emeka.udo@laurelhigh.com,JSS3,General,"Drama, Sports",2019-09-01,2022-06-30
+STU063,Alice,Arinze,Female,17,2007-07-22,Poor,No,Kano,Ifako-Ijaye,"40, Street in Ifako-Ijaye, Lagos State",Day,alice.arinze@laurelhigh.com,JSS3,General,Drama,2019-09-01,2022-06-30
+STU064,Maxwell,Bello,Male,17,2007-06-14,Good,No,Bauchi,Ikeja,"96, Road in Ikeja, Lagos State",Boarding,maxwell.bello@laurelhigh.com,SS2,Engineering,"Music, Clubs",2018-09-01,2019-06-30
+STU065,Emmanuel,Ogunleye,Female,11,2013-09-07,Average,No,Enugu,Ibeju-Lekki,"8, Road in Ibeju-Lekki, Lagos State",Day,emmanuel.ogunleye@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU066,Daniel,Nwosu,Male,11,2013-01-15,Poor,No,Jigawa,Amuwo-Odofin,"66, Avenue in Amuwo-Odofin, Lagos State",Boarding,daniel.nwosu@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU067,Ternenge,Osanyintipin,Male,14,2010-04-19,Average,No,Zamfara,Surulere,"1, Road in Surulere, Lagos State",Day,ternenge.osanyintipin@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU068,Anzaku,Ladan,Female,14,2010-03-25,Poor,No,Niger,Alimosho,"53, Street in Alimosho, Lagos State",Boarding,anzaku.ladan@laurelhigh.com,SS1,Commercial,"Debate, Clubs",2018-09-01,2020-06-30
+STU069,Amomot,Yekini,Female,11,2013-07-17,Average,Yes,Ondo,Lagos Mainland,"23, Road in Lagos Mainland, Lagos State",Boarding,amomot.yekini@laurelhigh.com,JSS1,General,"Sports, Drama",2020-09-01,2025-06-30
+STU070,Jafar,Etim,Male,17,2007-05-07,Good,No,Imo,Oshodi-Isolo,"45, Street in Oshodi-Isolo, Lagos State",Day,jafar.etim@laurelhigh.com,SS3,General,"Debate, Sports",2021-09-01,2021-06-30
+STU071,Bisi,Usman,Male,17,2007-12-28,Good,No,Plateau,Alimosho,"77, Road in Alimosho, Lagos State",Day,bisi.usman@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU072,Sani,Egbon,Male,14,2010-10-11,Good,Yes,Nasarawa,Badagry,"30, Road in Badagry, Lagos State",Day,sani.egbon@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU073,Godwin,Jabbi,Female,18,2006-03-21,Poor,No,Zamfara,Alimosho,"76, Road in Alimosho, Lagos State",Boarding,godwin.jabbi@laurelhigh.com,SS1,Pure Science,None,2017-09-01,2019-06-30
+STU074,Daniel,Ibrahim,Female,16,2008-07-06,Poor,No,Ogun,Ojo,"20, Avenue in Ojo, Lagos State",Day,daniel.ibrahim@laurelhigh.com,SS2,Art,"Drama, Music",2018-09-01,2019-06-30
+STU075,Alhaji,Amus,Male,18,2006-04-09,Poor,No,Bayelsa,Ikorodu,"18, Avenue in Ikorodu, Lagos State",Day,alhaji.amus@laurelhigh.com,JSS1,General,"Drama, Sports",2021-09-01,2026-06-30
+STU076,Oluwaseun,Mohammed,Female,10,2014-10-24,Good,No,Imo,Epe,"10, Street in Epe, Lagos State",Boarding,oluwaseun.mohammed@laurelhigh.com,SS1,Pure Science,None,2020-09-01,2022-06-30
+STU077,Zahra,Ibiam,Female,11,2013-04-23,Poor,No,Abuja,Mushin,"96, Avenue in Mushin, Lagos State",Boarding,zahra.ibiam@laurelhigh.com,SS1,Pure Science,"Clubs, Drama",2020-09-01,2022-06-30
+STU078,Collins,Okon,Male,14,2010-08-15,Average,No,Ondo,Eti-Osa,"47, Road in Eti-Osa, Lagos State",Boarding,collins.okon@laurelhigh.com,JSS1,General,Drama,2018-09-01,2023-06-30
+STU079,Adewumi,Ogore,Female,13,2011-01-09,Poor,No,Bayelsa,Ibeju-Lekki,"95, Street in Ibeju-Lekki, Lagos State",Day,adewumi.ogore@laurelhigh.com,JSS3,General,Debate,2017-09-01,2020-06-30
+STU080,Bola,Yusuf,Female,19,2005-09-21,Good,No,Anambra,Surulere,"32, Avenue in Surulere, Lagos State",Boarding,bola.yusuf@laurelhigh.com,SS3,Commercial,Debate,2019-09-01,2019-06-30
+STU081,Olatunde,Sanbauna,Male,18,2006-09-21,Good,No,Ebonyi,Ikeja,"63, Street in Ikeja, Lagos State",Boarding,olatunde.sanbauna@laurelhigh.com,SS3,General,"Sports, Clubs",2017-09-01,2017-06-30
+STU082,Zainab,Udofia,Male,10,2014-08-12,Average,No,Kaduna,Ikeja,"28, Road in Ikeja, Lagos State",Boarding,zainab.udofia@laurelhigh.com,JSS1,General,"Debate, Sports",2017-09-01,2022-06-30
+STU083,Cyril,Ahmed,Male,18,2006-09-27,Poor,No,Kogi,Shomolu,"37, Street in Shomolu, Lagos State",Day,cyril.ahmed@laurelhigh.com,SS1,Art,None,2018-09-01,2020-06-30
+STU084,Oleje,Olorunfemi,Male,14,2010-07-03,Poor,No,Yobe,Badagry,"46, Avenue in Badagry, Lagos State",Day,oleje.olorunfemi@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU085,Augustina,Eze,Female,16,2008-09-16,Average,No,Benue,Apapa,"49, Avenue in Apapa, Lagos State",Boarding,augustina.eze@laurelhigh.com,JSS1,General,Sports,2021-09-01,2026-06-30
+STU086,Kingsley,Musa,Male,18,2006-04-28,Average,No,Anambra,Ifako-Ijaye,"6, Street in Ifako-Ijaye, Lagos State",Boarding,kingsley.musa@laurelhigh.com,SS1,Pure Science,None,2017-09-01,2019-06-30
+STU087,Samuel,Zarami,Male,12,2012-04-19,Good,No,Ondo,Alimosho,"41, Street in Alimosho, Lagos State",Boarding,samuel.zarami@laurelhigh.com,JSS1,General,"Drama, Music",2018-09-01,2023-06-30
+STU088,Nanle,Mohammed,Male,12,2012-02-17,Poor,Yes,Ondo,Surulere,"89, Road in Surulere, Lagos State",Day,nanle.mohammed@laurelhigh.com,SS2,General,None,2019-09-01,2020-06-30
+STU089,Chukwunonso,Bello,Female,20,2004-08-08,Average,No,Akwa Ibom,Agege,"35, Avenue in Agege, Lagos State",Day,chukwunonso.bello@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU090,Abdullahi,Obi,Male,11,2013-07-23,Poor,No,Sokoto,Apapa,"35, Street in Apapa, Lagos State",Day,abdullahi.obi@laurelhigh.com,SS2,Pure Science,None,2020-09-01,2021-06-30
+STU091,Asukwo,Stephen,Male,14,2010-02-06,Average,No,Zamfara,Lagos Mainland,"14, Street in Lagos Mainland, Lagos State",Day,asukwo.stephen@laurelhigh.com,JSS3,General,Debate,2017-09-01,2020-06-30
+STU092,Chika,Njoku,Male,19,2005-07-01,Good,No,Ebonyi,Apapa,"77, Avenue in Apapa, Lagos State",Day,chika.njoku@laurelhigh.com,JSS2,General,Clubs,2018-09-01,2022-06-30
+STU093,Philip,Rasaki,Female,14,2010-08-05,Average,No,Imo,Ikeja,"39, Avenue in Ikeja, Lagos State",Boarding,philip.rasaki@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU094,Sunday,Anjorin,Male,13,2011-08-20,Average,Yes,Niger,Shomolu,"93, Road in Shomolu, Lagos State",Boarding,sunday.anjorin@laurelhigh.com,SS1,General,None,2018-09-01,2020-06-30
+STU095,Mhungur,Ebi,Female,15,2009-10-05,Average,No,Imo,Ajeromi-Ifelodun,"56, Road in Ajeromi-Ifelodun, Lagos State",Day,mhungur.ebi@laurelhigh.com,JSS2,General,"Music, Debate",2017-09-01,2021-06-30
+STU096,Philip,Patrick,Male,20,2004-04-11,Average,Yes,Akwa Ibom,Eti-Osa,"63, Road in Eti-Osa, Lagos State",Day,philip.patrick@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU097,Zahra,Okolie,Female,13,2011-12-03,Average,No,Osun,Ajeromi-Ifelodun,"57, Avenue in Ajeromi-Ifelodun, Lagos State",Day,zahra.okolie@laurelhigh.com,SS3,Pure Science,None,2018-09-01,2018-06-30
+STU098,Asukwo,Egbon,Female,11,2013-08-19,Poor,Yes,Borno,Surulere,"58, Road in Surulere, Lagos State",Day,asukwo.egbon@laurelhigh.com,JSS3,General,"Debate, Sports",2017-09-01,2020-06-30
+STU099,Augustina,Uwa,Male,20,2004-10-21,Good,Yes,Kano,Kosofe,"79, Street in Kosofe, Lagos State",Day,augustina.uwa@laurelhigh.com,SS1,Commercial,"Debate, Sports",2018-09-01,2020-06-30
+STU100,Joseph,Amus,Male,18,2006-10-08,Good,No,Kaduna,Badagry,"75, Road in Badagry, Lagos State",Boarding,joseph.amus@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU101,Amomot,Arinze,Male,16,2008-12-05,Average,No,Rivers,Eti-Osa,"11, Street in Eti-Osa, Lagos State",Boarding,amomot.arinze@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU102,Bisi,Mohammed,Male,17,2007-05-02,Average,No,Rivers,Ajeromi-Ifelodun,"41, Street in Ajeromi-Ifelodun, Lagos State",Day,bisi.mohammed@laurelhigh.com,SS3,General,"Sports, Music",2021-09-01,2021-06-30
+STU103,Haladu,Ogunsanya,Male,16,2008-07-21,Poor,No,Gombe,Ikorodu,"60, Street in Ikorodu, Lagos State",Boarding,haladu.ogunsanya@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU104,Abiodun,Ishaya,Male,13,2011-12-26,Average,No,Cross River,Agege,"27, Avenue in Agege, Lagos State",Boarding,abiodun.ishaya@laurelhigh.com,SS2,General,Clubs,2017-09-01,2018-06-30
+STU105,Uche,Anyanwu,Male,14,2010-09-21,Average,No,Yobe,Ifako-Ijaye,"86, Avenue in Ifako-Ijaye, Lagos State",Boarding,uche.anyanwu@laurelhigh.com,JSS2,General,Clubs,2018-09-01,2022-06-30
+STU106,Omotomilola,Musa,Male,20,2004-10-19,Poor,No,Edo,Kosofe,"91, Avenue in Kosofe, Lagos State",Boarding,omotomilola.musa@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU107,Sunday,Okafor,Male,18,2006-10-05,Average,Yes,Taraba,Ikeja,"50, Avenue in Ikeja, Lagos State",Day,sunday.okafor@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU108,Adamu,Elaigwu,Male,15,2009-01-28,Poor,No,Sokoto,Kosofe,"58, Road in Kosofe, Lagos State",Boarding,adamu.elaigwu@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU109,Philip,Patrick,Male,16,2008-07-23,Good,No,Osun,Amuwo-Odofin,"88, Avenue in Amuwo-Odofin, Lagos State",Day,philip.patrick@laurelhigh.com,SS3,Art,None,2018-09-01,2018-06-30
+STU110,Ternenge,Oluwole,Male,18,2006-08-19,Average,No,Kwara,Oshodi-Isolo,"37, Street in Oshodi-Isolo, Lagos State",Boarding,ternenge.oluwole@laurelhigh.com,SS2,Engineering,Clubs,2018-09-01,2019-06-30
+STU111,Emmanuel,Okolie,Male,10,2014-08-18,Good,Yes,Ondo,Ikorodu,"98, Road in Ikorodu, Lagos State",Boarding,emmanuel.okolie@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU112,Kenith,Yahaya,Female,15,2009-02-25,Average,No,Kwara,Shomolu,"12, Avenue in Shomolu, Lagos State",Day,kenith.yahaya@laurelhigh.com,SS3,Engineering,Clubs,2020-09-01,2020-06-30
+STU113,Daniel,Udo,Female,10,2014-09-09,Average,No,Bauchi,Mushin,"73, Avenue in Mushin, Lagos State",Boarding,daniel.udo@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU114,Mhungur,Egbon,Female,12,2012-01-09,Average,No,Kebbi,Ifako-Ijaye,"97, Avenue in Ifako-Ijaye, Lagos State",Day,mhungur.egbon@laurelhigh.com,SS3,Art,None,2020-09-01,2020-06-30
+STU115,Sadiq,Ejeh,Female,19,2005-11-14,Good,No,Akwa Ibom,Ikeja,"81, Avenue in Ikeja, Lagos State",Boarding,sadiq.ejeh@laurelhigh.com,JSS2,General,Sports,2021-09-01,2025-06-30
+STU116,Temitayo,Adebayo,Male,15,2009-12-03,Average,No,Enugu,Amuwo-Odofin,"75, Street in Amuwo-Odofin, Lagos State",Boarding,temitayo.adebayo@laurelhigh.com,SS2,Commercial,"Clubs, Debate",2018-09-01,2019-06-30
+STU117,Jamilu,Egbunu,Male,15,2009-09-19,Poor,No,Jigawa,Shomolu,"37, Avenue in Shomolu, Lagos State",Day,jamilu.egbunu@laurelhigh.com,JSS1,General,Sports,2018-09-01,2023-06-30
+STU118,Fatai,Ahmad,Female,12,2012-01-14,Good,Yes,Edo,Ifako-Ijaye,"57, Avenue in Ifako-Ijaye, Lagos State",Day,fatai.ahmad@laurelhigh.com,JSS1,General,"Drama, Music",2020-09-01,2025-06-30
+STU119,Umar,Omora,Female,15,2009-03-02,Poor,No,Enugu,Apapa,"86, Road in Apapa, Lagos State",Day,umar.omora@laurelhigh.com,JSS2,General,Music,2019-09-01,2023-06-30
+STU120,Ugonma,Osanyintipin,Female,17,2007-10-08,Poor,No,Plateau,Mushin,"10, Street in Mushin, Lagos State",Day,ugonma.osanyintipin@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU121,Nnamdi,Ejugwu,Female,11,2013-02-24,Average,No,Cross River,Amuwo-Odofin,"30, Avenue in Amuwo-Odofin, Lagos State",Day,nnamdi.ejugwu@laurelhigh.com,SS3,Commercial,None,2021-09-01,2021-06-30
+STU122,Bola,Ishaya,Female,18,2006-10-21,Average,No,Bauchi,Apapa,"73, Street in Apapa, Lagos State",Boarding,bola.ishaya@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU123,Nnamdi,Ejugwu,Male,12,2012-10-24,Good,No,Jigawa,Ifako-Ijaye,"97, Street in Ifako-Ijaye, Lagos State",Day,nnamdi.ejugwu@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU124,Samuel,Aduku,Male,19,2005-10-10,Good,No,Benue,Ikorodu,"77, Road in Ikorodu, Lagos State",Boarding,samuel.aduku@laurelhigh.com,SS2,Commercial,None,2021-09-01,2022-06-30
+STU125,Olamide,Tsadu,Female,16,2008-08-21,Poor,No,Nasarawa,Amuwo-Odofin,"15, Street in Amuwo-Odofin, Lagos State",Day,olamide.tsadu@laurelhigh.com,JSS3,General,"Sports, Drama",2017-09-01,2020-06-30
+STU126,Joseph,Ibrahim,Female,18,2006-08-25,Average,Yes,Oyo,Lagos Mainland,"88, Street in Lagos Mainland, Lagos State",Day,joseph.ibrahim@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU127,Zahra,Andrew,Male,14,2010-09-25,Poor,No,Nasarawa,Badagry,"81, Road in Badagry, Lagos State",Boarding,zahra.andrew@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU128,Chidi,Oguntayo,Female,13,2011-06-13,Average,No,Zamfara,Badagry,"20, Road in Badagry, Lagos State",Day,chidi.oguntayo@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU129,Olatunde,Odugu,Male,11,2013-10-02,Poor,No,Kano,Ojo,"59, Road in Ojo, Lagos State",Day,olatunde.odugu@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU130,Adeola,Jayeola,Male,18,2006-03-12,Average,No,Ekiti,Badagry,"93, Avenue in Badagry, Lagos State",Boarding,adeola.jayeola@laurelhigh.com,JSS1,General,Sports,2019-09-01,2024-06-30
+STU131,Sodiq,Onyeka,Female,11,2013-10-21,Good,No,Cross River,Badagry,"34, Road in Badagry, Lagos State",Day,sodiq.onyeka@laurelhigh.com,JSS1,General,Sports,2018-09-01,2023-06-30
+STU132,Monisola,Okeke,Male,19,2005-02-08,Good,No,Gombe,Ifako-Ijaye,"87, Road in Ifako-Ijaye, Lagos State",Boarding,monisola.okeke@laurelhigh.com,SS2,General,"Sports, Music",2021-09-01,2022-06-30
+STU133,Ugonma,Yekini,Female,10,2014-12-21,Average,No,Imo,Kosofe,"71, Road in Kosofe, Lagos State",Boarding,ugonma.yekini@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU134,Jamilu,Egbunu,Female,11,2013-01-06,Poor,Yes,Niger,Lagos Mainland,"65, Road in Lagos Mainland, Lagos State",Boarding,jamilu.egbunu@laurelhigh.com,JSS1,General,"Debate, Sports",2017-09-01,2022-06-30
+STU135,Emmanuel,Okolie,Female,18,2006-06-07,Good,No,Zamfara,Apapa,"59, Street in Apapa, Lagos State",Boarding,emmanuel.okolie@laurelhigh.com,JSS2,General,Music,2019-09-01,2023-06-30
+STU136,Mercy,Obi,Female,13,2011-07-01,Average,No,Ekiti,Ikorodu,"20, Street in Ikorodu, Lagos State",Day,mercy.obi@laurelhigh.com,JSS1,General,Sports,2019-09-01,2024-06-30
+STU137,Omotomilola,Zarami,Male,13,2011-07-16,Average,No,Imo,Ifako-Ijaye,"68, Street in Ifako-Ijaye, Lagos State",Boarding,omotomilola.zarami@laurelhigh.com,SS3,Commercial,None,2020-09-01,2020-06-30
+STU138,Agai,Ibrahim,Male,19,2005-03-21,Poor,No,Enugu,Apapa,"13, Road in Apapa, Lagos State",Day,agai.ibrahim@laurelhigh.com,SS3,Engineering,Debate,2021-09-01,2021-06-30
+STU139,Ternenge,Oluwole,Male,15,2009-05-08,Average,No,Katsina,Surulere,"41, Avenue in Surulere, Lagos State",Day,ternenge.oluwole@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU140,Fidelis,Etim,Female,15,2009-09-12,Good,No,Gombe,Ajeromi-Ifelodun,"53, Street in Ajeromi-Ifelodun, Lagos State",Day,fidelis.etim@laurelhigh.com,SS3,Pure Science,None,2020-09-01,2020-06-30
+STU141,Philip,Omora,Female,10,2014-03-03,Good,No,Gombe,Epe,"28, Avenue in Epe, Lagos State",Day,philip.omora@laurelhigh.com,SS2,Pure Science,Drama,2019-09-01,2020-06-30
+STU142,Nwanyinnaya,Balogun,Male,18,2006-08-04,Poor,No,Akwa Ibom,Ikorodu,"32, Street in Ikorodu, Lagos State",Day,nwanyinnaya.balogun@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU143,Kingsley,Osakwe,Male,19,2005-02-01,Poor,No,Akwa Ibom,Apapa,"76, Avenue in Apapa, Lagos State",Day,kingsley.osakwe@laurelhigh.com,SS3,Pure Science,"Sports, Drama",2020-09-01,2020-06-30
+STU144,Funbi,Kelechi,Male,19,2005-07-16,Good,No,Edo,Kosofe,"56, Road in Kosofe, Lagos State",Day,funbi.kelechi@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU145,Hassan,Okafor,Male,10,2014-10-08,Poor,No,Kebbi,Ikeja,"79, Road in Ikeja, Lagos State",Boarding,hassan.okafor@laurelhigh.com,SS1,Pure Science,"Debate, Sports",2018-09-01,2020-06-30
+STU146,Gerald,Kolapo,Female,20,2004-11-26,Good,Yes,Bauchi,Mushin,"68, Street in Mushin, Lagos State",Boarding,gerald.kolapo@laurelhigh.com,JSS3,General,"Drama, Debate",2021-09-01,2024-06-30
+STU147,Sodiq,Baba,Female,16,2008-01-11,Average,Yes,Oyo,Lagos Island,"35, Street in Lagos Island, Lagos State",Boarding,sodiq.baba@laurelhigh.com,JSS3,General,"Drama, Sports",2021-09-01,2024-06-30
+STU148,Edward,Ekanem,Female,13,2011-05-18,Poor,No,Kaduna,Ifako-Ijaye,"85, Street in Ifako-Ijaye, Lagos State",Day,edward.ekanem@laurelhigh.com,SS3,Art,Debate,2021-09-01,2021-06-30
+STU149,Zahra,Ajayi,Male,15,2009-12-23,Good,No,Kano,Lagos Island,"76, Street in Lagos Island, Lagos State",Boarding,zahra.ajayi@laurelhigh.com,JSS2,General,Clubs,2017-09-01,2021-06-30
+STU150,Muhammad,Osanyintipin,Female,10,2014-04-20,Poor,No,Zamfara,Amuwo-Odofin,"12, Street in Amuwo-Odofin, Lagos State",Day,muhammad.osanyintipin@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU151,Hassan,Amus,Female,15,2009-03-19,Average,No,Bauchi,Kosofe,"8, Street in Kosofe, Lagos State",Boarding,hassan.amus@laurelhigh.com,SS2,General,"Drama, Sports",2020-09-01,2021-06-30
+STU152,Mansir,Saadu,Female,15,2009-12-14,Good,No,Plateau,Eti-Osa,"18, Street in Eti-Osa, Lagos State",Day,mansir.saadu@laurelhigh.com,SS2,Commercial,None,2018-09-01,2019-06-30
+STU153,Binny,Oyedepo,Male,14,2010-12-01,Good,No,Taraba,Eti-Osa,"17, Street in Eti-Osa, Lagos State",Boarding,binny.oyedepo@laurelhigh.com,SS3,Pure Science,"Clubs, Sports",2017-09-01,2017-06-30
+STU154,Abiodun,Olayinka,Male,17,2007-12-03,Good,No,Kaduna,Ifako-Ijaye,"19, Avenue in Ifako-Ijaye, Lagos State",Boarding,abiodun.olayinka@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU155,Ufedo,Oladipo,Female,13,2011-06-09,Average,No,Abuja,Mushin,"89, Street in Mushin, Lagos State",Day,ufedo.oladipo@laurelhigh.com,SS2,General,None,2021-09-01,2022-06-30
+STU156,Adamu,Aminu,Male,15,2009-02-27,Good,No,Bayelsa,Surulere,"70, Avenue in Surulere, Lagos State",Boarding,adamu.aminu@laurelhigh.com,JSS3,General,Music,2017-09-01,2020-06-30
+STU157,Blessing,Otu,Male,15,2009-02-11,Poor,Yes,Kwara,Agege,"34, Street in Agege, Lagos State",Day,blessing.otu@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU158,Mansir,Olorunfemi,Male,20,2004-07-06,Good,No,Rivers,Ojo,"22, Road in Ojo, Lagos State",Boarding,mansir.olorunfemi@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU159,Agai,Adebayo,Male,20,2004-04-04,Average,Yes,Osun,Shomolu,"37, Avenue in Shomolu, Lagos State",Day,agai.adebayo@laurelhigh.com,JSS1,General,Debate,2017-09-01,2022-06-30
+STU160,Victoria,Jayeola,Female,14,2010-10-16,Poor,No,Abuja,Apapa,"85, Road in Apapa, Lagos State",Day,victoria.jayeola@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU161,Philip,Lawal,Female,17,2007-05-03,Average,No,Adamawa,Surulere,"63, Road in Surulere, Lagos State",Boarding,philip.lawal@laurelhigh.com,SS1,Art,None,2018-09-01,2020-06-30
+STU162,Sodiq,Grace,Male,17,2007-04-27,Poor,No,Delta,Shomolu,"60, Avenue in Shomolu, Lagos State",Day,sodiq.grace@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU163,Tunde,Ibiam,Female,19,2005-01-27,Poor,No,Ebonyi,Ojo,"30, Road in Ojo, Lagos State",Day,tunde.ibiam@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU164,Philip,Ogundele,Female,10,2014-09-26,Average,No,Zamfara,Surulere,"65, Road in Surulere, Lagos State",Day,philip.ogundele@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU165,Patience,Yaro,Male,12,2012-02-22,Average,No,Gombe,Mushin,"6, Avenue in Mushin, Lagos State",Day,patience.yaro@laurelhigh.com,JSS3,General,"Drama, Clubs",2020-09-01,2023-06-30
+STU166,Joseph,Ibrahim,Male,15,2009-08-28,Average,No,Osun,Ikorodu,"36, Road in Ikorodu, Lagos State",Boarding,joseph.ibrahim@laurelhigh.com,JSS1,General,Debate,2017-09-01,2022-06-30
+STU167,Terhemba,Ekanem,Female,19,2005-02-19,Average,No,Borno,Ibeju-Lekki,"98, Street in Ibeju-Lekki, Lagos State",Boarding,terhemba.ekanem@laurelhigh.com,SS2,Engineering,"Debate, Drama",2019-09-01,2020-06-30
+STU168,Mansir,Igbe,Female,14,2010-10-20,Good,No,Rivers,Kosofe,"52, Street in Kosofe, Lagos State",Day,mansir.igbe@laurelhigh.com,SS1,General,None,2018-09-01,2020-06-30
+STU169,Abiodun,Ehanmo,Female,10,2014-05-09,Average,No,Rivers,Lagos Mainland,"44, Avenue in Lagos Mainland, Lagos State",Boarding,abiodun.ehanmo@laurelhigh.com,SS3,Art,None,2021-09-01,2021-06-30
+STU170,Oluwaseun,Mohammed,Male,13,2011-07-24,Poor,No,Bayelsa,Apapa,"57, Street in Apapa, Lagos State",Boarding,oluwaseun.mohammed@laurelhigh.com,JSS3,General,"Sports, Music",2017-09-01,2020-06-30
+STU171,Jafar,Yusuf,Female,18,2006-03-07,Good,No,Lagos,Ikeja,"73, Street in Ikeja, Lagos State",Day,jafar.yusuf@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU172,Sani,Elkanah,Female,15,2009-07-21,Average,No,Enugu,Shomolu,"60, Road in Shomolu, Lagos State",Day,sani.elkanah@laurelhigh.com,SS3,Art,None,2021-09-01,2021-06-30
+STU173,Zainab,Odugu,Male,15,2009-05-24,Good,No,Rivers,Ikorodu,"45, Street in Ikorodu, Lagos State",Day,zainab.odugu@laurelhigh.com,SS3,Commercial,None,2021-09-01,2021-06-30
+STU174,Bassey,Ejugwu,Male,20,2004-04-09,Poor,No,Oyo,Oshodi-Isolo,"29, Road in Oshodi-Isolo, Lagos State",Day,bassey.ejugwu@laurelhigh.com,SS1,General,"Sports, Debate",2017-09-01,2019-06-30
+STU175,Isah,Okolie,Male,19,2005-12-21,Poor,No,Abuja,Shomolu,"40, Road in Shomolu, Lagos State",Boarding,isah.okolie@laurelhigh.com,JSS2,General,"Debate, Drama",2018-09-01,2022-06-30
+STU176,Gbenga,Ajibola,Female,19,2005-09-22,Poor,No,Ogun,Surulere,"14, Street in Surulere, Lagos State",Boarding,gbenga.ajibola@laurelhigh.com,SS3,Engineering,Clubs,2019-09-01,2019-06-30
+STU177,Philip,Rasaki,Male,15,2009-06-28,Good,No,Plateau,Apapa,"36, Road in Apapa, Lagos State",Day,philip.rasaki@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU178,Hassan,Amus,Male,10,2014-05-09,Good,No,Akwa Ibom,Ikeja,"84, Avenue in Ikeja, Lagos State",Boarding,hassan.amus@laurelhigh.com,SS3,Pure Science,Clubs,2018-09-01,2018-06-30
+STU179,Philip,Ene,Male,20,2004-05-28,Average,No,Kaduna,Amuwo-Odofin,"46, Road in Amuwo-Odofin, Lagos State",Boarding,philip.ene@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU180,Khadijah,Femi,Female,20,2004-02-08,Average,No,Katsina,Kosofe,"43, Road in Kosofe, Lagos State",Boarding,khadijah.femi@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU181,Dare,Udofia,Female,17,2007-10-19,Average,No,Sokoto,Ifako-Ijaye,"7, Road in Ifako-Ijaye, Lagos State",Boarding,dare.udofia@laurelhigh.com,SS3,Pure Science,"Clubs, Sports",2021-09-01,2021-06-30
+STU182,Godwin,Jabbi,Female,13,2011-10-15,Poor,No,Nasarawa,Ikeja,"44, Avenue in Ikeja, Lagos State",Day,godwin.jabbi@laurelhigh.com,JSS1,General,Debate,2020-09-01,2025-06-30
+STU183,Adewumi,Ogore,Female,14,2010-10-25,Average,No,Nasarawa,Ajeromi-Ifelodun,"27, Street in Ajeromi-Ifelodun, Lagos State",Boarding,adewumi.ogore@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU184,Omotola,Omora,Male,10,2014-04-24,Good,No,Cross River,Surulere,"5, Road in Surulere, Lagos State",Day,omotola.omora@laurelhigh.com,JSS2,General,"Clubs, Music",2021-09-01,2025-06-30
+STU185,Fatai,Ahmad,Male,14,2010-07-17,Average,Yes,Kano,Lagos Mainland,"17, Street in Lagos Mainland, Lagos State",Boarding,fatai.ahmad@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU186,Patience,Yaro,Male,19,2005-07-22,Poor,Yes,Sokoto,Badagry,"68, Avenue in Badagry, Lagos State",Day,patience.yaro@laurelhigh.com,SS3,Pure Science,None,2019-09-01,2019-06-30
+STU187,Patience,Yaro,Female,13,2011-04-24,Average,No,Akwa Ibom,Oshodi-Isolo,"94, Street in Oshodi-Isolo, Lagos State",Day,patience.yaro@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU188,Emmanuel,Igbe,Female,10,2014-11-04,Poor,No,Katsina,Epe,"77, Street in Epe, Lagos State",Boarding,emmanuel.igbe@laurelhigh.com,SS1,General,Debate,2021-09-01,2023-06-30
+STU189,Isong,Isong,Female,12,2012-11-21,Poor,No,Osun,Amuwo-Odofin,"27, Road in Amuwo-Odofin, Lagos State",Day,isong.isong@laurelhigh.com,JSS1,General,Clubs,2018-09-01,2023-06-30
+STU190,Mary,Chukwu,Male,11,2013-02-16,Poor,No,Plateau,Epe,"37, Street in Epe, Lagos State",Boarding,mary.chukwu@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU191,Ugonma,Osanyintipin,Male,10,2014-04-23,Average,No,Bayelsa,Kosofe,"71, Avenue in Kosofe, Lagos State",Day,ugonma.osanyintipin@laurelhigh.com,SS3,Art,None,2019-09-01,2019-06-30
+STU192,Ugonma,Ezeji,Female,11,2013-02-24,Good,No,Oyo,Ikeja,"100, Road in Ikeja, Lagos State",Boarding,ugonma.ezeji@laurelhigh.com,SS2,Art,None,2019-09-01,2020-06-30
+STU193,Temitope,Baba,Male,10,2014-11-11,Average,No,Nasarawa,Kosofe,"38, Avenue in Kosofe, Lagos State",Day,temitope.baba@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU194,Kabiru,Aduku,Female,15,2009-05-24,Poor,No,Bauchi,Lagos Island,"57, Road in Lagos Island, Lagos State",Boarding,kabiru.aduku@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU195,Betty,Musa,Female,17,2007-03-04,Average,No,Edo,Surulere,"54, Road in Surulere, Lagos State",Boarding,betty.musa@laurelhigh.com,JSS1,General,"Music, Sports",2021-09-01,2026-06-30
+STU196,Ayodele,Oluwole,Female,19,2005-10-01,Average,No,Oyo,Kosofe,"49, Avenue in Kosofe, Lagos State",Day,ayodele.oluwole@laurelhigh.com,SS3,Pure Science,"Sports, Debate",2020-09-01,2020-06-30
+STU197,Abiodun,Yahaya,Male,20,2004-10-24,Average,No,Katsina,Agege,"68, Road in Agege, Lagos State",Boarding,abiodun.yahaya@laurelhigh.com,JSS3,General,Clubs,2019-09-01,2022-06-30
+STU198,Sunday,Yaro,Male,20,2004-07-05,Poor,No,Kano,Lagos Mainland,"87, Road in Lagos Mainland, Lagos State",Boarding,sunday.yaro@laurelhigh.com,SS3,Engineering,None,2017-09-01,2017-06-30
+STU199,Kabiru,Aduku,Female,17,2007-06-09,Poor,No,Ekiti,Apapa,"42, Street in Apapa, Lagos State",Day,kabiru.aduku@laurelhigh.com,JSS1,General,Debate,2020-09-01,2025-06-30
+STU200,Ugonma,Uyieidem,Male,17,2007-08-11,Average,No,Edo,Ibeju-Lekki,"12, Avenue in Ibeju-Lekki, Lagos State",Boarding,ugonma.uyieidem@laurelhigh.com,JSS1,General,Sports,2018-09-01,2023-06-30
+STU201,Godwin,Jabbi,Female,10,2014-10-21,Average,No,Kwara,Ikorodu,"12, Road in Ikorodu, Lagos State",Boarding,godwin.jabbi@laurelhigh.com,JSS2,General,Debate,2017-09-01,2021-06-30
+STU202,Jamilu,Egbunu,Male,15,2009-10-16,Average,No,Nasarawa,Ajeromi-Ifelodun,"72, Road in Ajeromi-Ifelodun, Lagos State",Day,jamilu.egbunu@laurelhigh.com,SS2,Pure Science,None,2019-09-01,2020-06-30
+STU203,Chukwunonso,Bello,Female,18,2006-02-02,Good,No,Ebonyi,Ikorodu,"48, Road in Ikorodu, Lagos State",Day,chukwunonso.bello@laurelhigh.com,SS3,Art,"Debate, Sports",2018-09-01,2018-06-30
+STU204,Victoria,Eze,Female,17,2007-06-04,Poor,No,Adamawa,Mushin,"25, Road in Mushin, Lagos State",Boarding,victoria.eze@laurelhigh.com,SS2,Engineering,None,2021-09-01,2022-06-30
+STU205,Ternenge,Ebi,Male,10,2014-01-18,Good,No,Lagos,Amuwo-Odofin,"68, Road in Amuwo-Odofin, Lagos State",Day,ternenge.ebi@laurelhigh.com,SS3,Pure Science,"Music, Clubs",2017-09-01,2017-06-30
+STU206,Joseph,Ibrahim,Male,16,2008-04-09,Poor,No,Abia,Surulere,"78, Road in Surulere, Lagos State",Boarding,joseph.ibrahim@laurelhigh.com,JSS2,General,"Debate, Music",2019-09-01,2023-06-30
+STU207,Samuel,Augustine,Female,15,2009-09-21,Average,No,Lagos,Ikorodu,"92, Road in Ikorodu, Lagos State",Day,samuel.augustine@laurelhigh.com,JSS1,General,Drama,2020-09-01,2025-06-30
+STU208,Jafar,Yusuf,Female,20,2004-02-25,Good,No,Taraba,Ikorodu,"42, Road in Ikorodu, Lagos State",Boarding,jafar.yusuf@laurelhigh.com,JSS2,General,Debate,2018-09-01,2022-06-30
+STU209,Sodiq,Onyeka,Female,10,2014-01-22,Average,No,Abuja,Ifako-Ijaye,"49, Street in Ifako-Ijaye, Lagos State",Boarding,sodiq.onyeka@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU210,Nnedinma,Jabbi,Female,18,2006-08-04,Good,No,Nasarawa,Mushin,"5, Avenue in Mushin, Lagos State",Day,nnedinma.jabbi@laurelhigh.com,SS1,Art,Clubs,2017-09-01,2019-06-30
+STU211,Saidu,Etim,Female,16,2008-06-18,Average,No,Sokoto,Surulere,"54, Road in Surulere, Lagos State",Day,saidu.etim@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU212,Mathew,Yusuf,Male,19,2005-04-10,Poor,No,Enugu,Ikorodu,"26, Road in Ikorodu, Lagos State",Day,mathew.yusuf@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU213,Esther,Jayeola,Male,18,2006-03-19,Average,No,Kwara,Shomolu,"34, Street in Shomolu, Lagos State",Day,esther.jayeola@laurelhigh.com,SS3,Commercial,None,2021-09-01,2021-06-30
+STU214,Felicia,Uyieidem,Female,20,2004-05-16,Poor,No,Abia,Alimosho,"79, Road in Alimosho, Lagos State",Day,felicia.uyieidem@laurelhigh.com,SS2,Commercial,None,2017-09-01,2018-06-30
+STU215,Zahra,Ibiam,Male,18,2006-09-18,Average,No,Taraba,Apapa,"21, Avenue in Apapa, Lagos State",Boarding,zahra.ibiam@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU216,Tolu,Eze,Male,19,2005-09-27,Average,No,Enugu,Mushin,"68, Avenue in Mushin, Lagos State",Day,tolu.eze@laurelhigh.com,SS2,General,Debate,2021-09-01,2022-06-30
+STU217,Edward,Ogunyemi,Female,11,2013-09-24,Poor,No,Kwara,Surulere,"50, Avenue in Surulere, Lagos State",Day,edward.ogunyemi@laurelhigh.com,JSS2,General,"Drama, Debate",2017-09-01,2021-06-30
+STU218,Olamide,Tsadu,Male,11,2013-09-18,Poor,Yes,Yobe,Badagry,"13, Street in Badagry, Lagos State",Boarding,olamide.tsadu@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU219,Ugonma,Ezeji,Male,16,2008-12-22,Good,No,Plateau,Ikorodu,"83, Street in Ikorodu, Lagos State",Day,ugonma.ezeji@laurelhigh.com,JSS1,General,Sports,2018-09-01,2023-06-30
+STU220,Mohammed,Ebi,Male,11,2013-05-14,Average,No,Taraba,Ikorodu,"74, Street in Ikorodu, Lagos State",Boarding,mohammed.ebi@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU221,Ternenge,Osanyintipin,Male,20,2004-02-25,Good,No,Adamawa,Agege,"93, Road in Agege, Lagos State",Boarding,ternenge.osanyintipin@laurelhigh.com,SS2,General,None,2021-09-01,2022-06-30
+STU222,Daniel,Ibrahim,Male,14,2010-07-13,Good,No,Zamfara,Apapa,"98, Avenue in Apapa, Lagos State",Day,daniel.ibrahim@laurelhigh.com,SS3,Pure Science,None,2021-09-01,2021-06-30
+STU223,Adebayo,Ibrahim,Male,20,2004-11-26,Poor,No,Akwa Ibom,Eti-Osa,"19, Avenue in Eti-Osa, Lagos State",Day,adebayo.ibrahim@laurelhigh.com,SS3,General,Clubs,2019-09-01,2019-06-30
+STU224,Fatima,Onyeka,Male,16,2008-02-10,Poor,No,Abuja,Epe,"69, Road in Epe, Lagos State",Day,fatima.onyeka@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU225,Emeka,Udo,Male,13,2011-11-26,Average,No,Kaduna,Shomolu,"15, Street in Shomolu, Lagos State",Boarding,emeka.udo@laurelhigh.com,JSS3,General,"Clubs, Debate",2021-09-01,2024-06-30
+STU226,Emeke,Oni,Male,13,2011-08-11,Good,No,Niger,Ifako-Ijaye,"93, Road in Ifako-Ijaye, Lagos State",Day,emeke.oni@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU227,Mathew,Zarami,Female,19,2005-12-19,Average,No,Ekiti,Lagos Island,"85, Avenue in Lagos Island, Lagos State",Boarding,mathew.zarami@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU228,Olatunde,Sanbauna,Female,13,2011-11-14,Good,No,Abuja,Oshodi-Isolo,"92, Road in Oshodi-Isolo, Lagos State",Boarding,olatunde.sanbauna@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU229,Lovina,Njoku,Male,17,2007-03-21,Poor,No,Delta,Eti-Osa,"71, Street in Eti-Osa, Lagos State",Day,lovina.njoku@laurelhigh.com,SS1,Art,"Music, Drama",2019-09-01,2021-06-30
+STU230,Adamu,Mmaduako,Female,19,2005-10-07,Average,Yes,Kogi,Agege,"75, Avenue in Agege, Lagos State",Day,adamu.mmaduako@laurelhigh.com,SS3,Commercial,Clubs,2017-09-01,2017-06-30
+STU231,Yohanna,Ehanmo,Male,14,2010-09-17,Good,No,Akwa Ibom,Ibeju-Lekki,"18, Avenue in Ibeju-Lekki, Lagos State",Day,yohanna.ehanmo@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU232,Ufedo,Oladipo,Female,19,2005-12-24,Poor,Yes,Gombe,Ibeju-Lekki,"85, Street in Ibeju-Lekki, Lagos State",Day,ufedo.oladipo@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU233,Abiodun,Yahaya,Female,10,2014-09-26,Good,No,Katsina,Oshodi-Isolo,"86, Street in Oshodi-Isolo, Lagos State",Day,abiodun.yahaya@laurelhigh.com,JSS2,General,"Sports, Clubs",2018-09-01,2022-06-30
+STU234,Ugonma,Osanyintipin,Female,19,2005-03-13,Average,No,Ogun,Shomolu,"70, Road in Shomolu, Lagos State",Boarding,ugonma.osanyintipin@laurelhigh.com,SS1,Engineering,Sports,2019-09-01,2021-06-30
+STU235,Ngozi,Mohammed,Male,15,2009-08-20,Poor,No,Kaduna,Surulere,"45, Avenue in Surulere, Lagos State",Day,ngozi.mohammed@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU236,Mhungur,Ekanem,Female,12,2012-10-23,Good,No,Kebbi,Ikeja,"21, Avenue in Ikeja, Lagos State",Boarding,mhungur.ekanem@laurelhigh.com,SS3,Pure Science,"Sports, Debate",2020-09-01,2020-06-30
+STU237,Ternenge,Adesakin,Male,13,2011-10-19,Good,No,Gombe,Agege,"6, Street in Agege, Lagos State",Day,ternenge.adesakin@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU238,Esther,Lawal,Female,16,2008-11-01,Average,No,Katsina,Badagry,"77, Road in Badagry, Lagos State",Boarding,esther.lawal@laurelhigh.com,SS3,General,None,2019-09-01,2019-06-30
+STU239,Paul,Ibiam,Female,12,2012-10-22,Average,No,Kaduna,Epe,"75, Street in Epe, Lagos State",Day,paul.ibiam@laurelhigh.com,JSS3,General,Drama,2020-09-01,2023-06-30
+STU240,Franklin,Adebayo,Female,11,2013-09-28,Average,No,Imo,Ikeja,"3, Street in Ikeja, Lagos State",Day,franklin.adebayo@laurelhigh.com,SS3,Art,Music,2018-09-01,2018-06-30
+STU241,Lilian,Okorie,Female,11,2013-03-20,Poor,No,Ondo,Ifako-Ijaye,"62, Road in Ifako-Ijaye, Lagos State",Day,lilian.okorie@laurelhigh.com,JSS3,General,"Debate, Clubs",2021-09-01,2024-06-30
+STU242,Oladipupo,Ekpe,Female,17,2007-06-19,Poor,No,Ogun,Oshodi-Isolo,"99, Avenue in Oshodi-Isolo, Lagos State",Boarding,oladipupo.ekpe@laurelhigh.com,SS3,General,None,2017-09-01,2017-06-30
+STU243,Edward,Ekanem,Male,19,2005-05-07,Average,No,Kaduna,Eti-Osa,"70, Avenue in Eti-Osa, Lagos State",Boarding,edward.ekanem@laurelhigh.com,JSS1,General,Sports,2021-09-01,2026-06-30
+STU244,Umar,Omora,Female,15,2009-07-21,Poor,No,Jigawa,Ojo,"14, Street in Ojo, Lagos State",Boarding,umar.omora@laurelhigh.com,JSS3,General,"Debate, Drama",2019-09-01,2022-06-30
+STU245,Sani,Egbon,Female,18,2006-06-18,Good,No,Jigawa,Ikorodu,"62, Street in Ikorodu, Lagos State",Day,sani.egbon@laurelhigh.com,JSS3,General,"Clubs, Drama",2019-09-01,2022-06-30
+STU246,Bassey,Ejugwu,Male,12,2012-09-13,Average,No,Adamawa,Ajeromi-Ifelodun,"13, Street in Ajeromi-Ifelodun, Lagos State",Boarding,bassey.ejugwu@laurelhigh.com,SS2,Engineering,Sports,2017-09-01,2018-06-30
+STU247,Philip,Patrick,Male,17,2007-02-03,Poor,No,Abuja,Ikeja,"77, Avenue in Ikeja, Lagos State",Boarding,philip.patrick@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU248,Rasaki,Kolapo,Female,14,2010-01-25,Poor,No,Akwa Ibom,Badagry,"92, Road in Badagry, Lagos State",Day,rasaki.kolapo@laurelhigh.com,SS3,Pure Science,None,2018-09-01,2018-06-30
+STU249,Daniel,Udofia,Female,19,2005-01-12,Average,No,Lagos,Oshodi-Isolo,"22, Road in Oshodi-Isolo, Lagos State",Boarding,daniel.udofia@laurelhigh.com,JSS1,General,"Sports, Drama",2021-09-01,2026-06-30
+STU250,Tunde,Ibiam,Female,13,2011-12-23,Average,No,Akwa Ibom,Ibeju-Lekki,"67, Street in Ibeju-Lekki, Lagos State",Boarding,tunde.ibiam@laurelhigh.com,JSS1,General,Clubs,2021-09-01,2026-06-30
+STU251,Philip,Patrick,Male,13,2011-10-01,Poor,No,Kebbi,Epe,"59, Avenue in Epe, Lagos State",Boarding,philip.patrick@laurelhigh.com,JSS2,General,Clubs,2018-09-01,2022-06-30
+STU252,Chukwunonso,Bello,Female,18,2006-12-15,Poor,No,Adamawa,Shomolu,"74, Avenue in Shomolu, Lagos State",Boarding,chukwunonso.bello@laurelhigh.com,SS3,Pure Science,Drama,2017-09-01,2017-06-30
+STU253,Zahra,Aloye,Female,14,2010-11-26,Average,No,Kogi,Ifako-Ijaye,"9, Avenue in Ifako-Ijaye, Lagos State",Day,zahra.aloye@laurelhigh.com,SS3,Commercial,None,2020-09-01,2020-06-30
+STU254,Agai,Ibrahim,Female,11,2013-12-27,Poor,No,Katsina,Eti-Osa,"52, Road in Eti-Osa, Lagos State",Day,agai.ibrahim@laurelhigh.com,JSS2,General,"Debate, Drama",2017-09-01,2021-06-30
+STU255,Monisola,Bello,Male,20,2004-12-07,Good,No,Oyo,Kosofe,"25, Avenue in Kosofe, Lagos State",Day,monisola.bello@laurelhigh.com,JSS1,General,"Music, Clubs",2020-09-01,2025-06-30
+STU256,Mustapha,Ibrahim,Female,11,2013-11-16,Poor,No,Ebonyi,Ifako-Ijaye,"11, Road in Ifako-Ijaye, Lagos State",Boarding,mustapha.ibrahim@laurelhigh.com,SS1,General,"Drama, Clubs",2017-09-01,2019-06-30
+STU257,Bola,Elaigwu,Male,16,2008-03-02,Good,No,Taraba,Shomolu,"29, Road in Shomolu, Lagos State",Boarding,bola.elaigwu@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU258,Fatai,Okorie,Male,18,2006-12-01,Good,No,Taraba,Ifako-Ijaye,"59, Avenue in Ifako-Ijaye, Lagos State",Boarding,fatai.okorie@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU259,Samuel,Danladi,Male,14,2010-08-20,Poor,No,Katsina,Ikorodu,"31, Avenue in Ikorodu, Lagos State",Boarding,samuel.danladi@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU260,Agai,Ibrahim,Female,14,2010-10-05,Poor,No,Enugu,Surulere,"58, Street in Surulere, Lagos State",Boarding,agai.ibrahim@laurelhigh.com,SS3,General,Music,2020-09-01,2020-06-30
+STU261,Bola,Yusuf,Female,10,2014-08-05,Average,No,Borno,Amuwo-Odofin,"23, Avenue in Amuwo-Odofin, Lagos State",Boarding,bola.yusuf@laurelhigh.com,SS3,Engineering,Debate,2017-09-01,2017-06-30
+STU262,Alhaji,Amus,Female,11,2013-01-07,Good,Yes,Oyo,Surulere,"89, Street in Surulere, Lagos State",Boarding,alhaji.amus@laurelhigh.com,SS3,General,None,2018-09-01,2018-06-30
+STU263,Victoria,Jayeola,Male,14,2010-07-04,Poor,No,Enugu,Ikorodu,"45, Street in Ikorodu, Lagos State",Boarding,victoria.jayeola@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU264,Monisola,Omesili,Female,17,2007-10-10,Good,No,Abia,Amuwo-Odofin,"11, Avenue in Amuwo-Odofin, Lagos State",Day,monisola.omesili@laurelhigh.com,JSS3,General,"Drama, Debate",2020-09-01,2023-06-30
+STU265,Ugonma,Uyieidem,Female,15,2009-05-23,Average,No,Gombe,Oshodi-Isolo,"41, Road in Oshodi-Isolo, Lagos State",Boarding,ugonma.uyieidem@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU266,Adebayo,Ibrahim,Male,12,2012-03-24,Good,No,Ogun,Ojo,"24, Street in Ojo, Lagos State",Boarding,adebayo.ibrahim@laurelhigh.com,JSS1,General,"Sports, Music",2019-09-01,2024-06-30
+STU267,Jamilu,Adeleke,Male,18,2006-07-17,Poor,No,Plateau,Amuwo-Odofin,"7, Street in Amuwo-Odofin, Lagos State",Day,jamilu.adeleke@laurelhigh.com,SS2,General,None,2021-09-01,2022-06-30
+STU268,Umar,Omora,Female,13,2011-08-21,Poor,No,Imo,Oshodi-Isolo,"95, Avenue in Oshodi-Isolo, Lagos State",Boarding,umar.omora@laurelhigh.com,JSS1,General,"Sports, Clubs",2017-09-01,2022-06-30
+STU269,Oluwaseun,Kelechi,Female,14,2010-03-23,Good,No,Rivers,Ikorodu,"71, Avenue in Ikorodu, Lagos State",Boarding,oluwaseun.kelechi@laurelhigh.com,JSS3,General,Clubs,2017-09-01,2020-06-30
+STU270,Rashidat,Mmaduako,Male,13,2011-05-12,Average,No,Ebonyi,Ikorodu,"12, Avenue in Ikorodu, Lagos State",Day,rashidat.mmaduako@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU271,Abdullahi,Ogunyemi,Male,10,2014-08-10,Good,No,Sokoto,Ikorodu,"89, Avenue in Ikorodu, Lagos State",Day,abdullahi.ogunyemi@laurelhigh.com,JSS1,General,Clubs,2018-09-01,2023-06-30
+STU272,Samuel,Mohammed,Male,18,2006-04-06,Poor,No,Enugu,Ojo,"56, Avenue in Ojo, Lagos State",Boarding,samuel.mohammed@laurelhigh.com,SS2,Pure Science,None,2018-09-01,2019-06-30
+STU273,Fatai,Ahmad,Male,20,2004-11-24,Average,No,Kano,Epe,"35, Avenue in Epe, Lagos State",Day,fatai.ahmad@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU274,Olatunde,Alabi,Male,19,2005-12-20,Good,Yes,Sokoto,Ajeromi-Ifelodun,"58, Avenue in Ajeromi-Ifelodun, Lagos State",Day,olatunde.alabi@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU275,Sodiq,Grace,Male,12,2012-12-01,Good,No,Plateau,Shomolu,"92, Avenue in Shomolu, Lagos State",Boarding,sodiq.grace@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU276,Adeola,Okon,Female,17,2007-06-03,Average,No,Zamfara,Lagos Mainland,"90, Street in Lagos Mainland, Lagos State",Day,adeola.okon@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU277,Daniel,Nwaogwugwu,Male,14,2010-02-25,Good,No,Rivers,Mushin,"49, Street in Mushin, Lagos State",Day,daniel.nwaogwugwu@laurelhigh.com,SS2,Pure Science,None,2018-09-01,2019-06-30
+STU278,Umar,Ajayi,Male,17,2007-05-11,Average,No,Plateau,Mushin,"50, Road in Mushin, Lagos State",Boarding,umar.ajayi@laurelhigh.com,JSS1,General,Clubs,2021-09-01,2026-06-30
+STU279,John-pius,Grace,Female,10,2014-02-08,Average,No,Zamfara,Lagos Mainland,"86, Street in Lagos Mainland, Lagos State",Day,john-pius.grace@laurelhigh.com,SS1,General,None,2019-09-01,2021-06-30
+STU280,Yohanna,Yahaya,Female,19,2005-12-20,Average,Yes,Kano,Alimosho,"89, Avenue in Alimosho, Lagos State",Day,yohanna.yahaya@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU281,Chinedu,Aminu,Female,15,2009-12-18,Average,No,Anambra,Alimosho,"83, Street in Alimosho, Lagos State",Boarding,chinedu.aminu@laurelhigh.com,SS2,Pure Science,None,2020-09-01,2021-06-30
+STU282,Nwanyinnaya,Mohammed,Female,15,2009-05-02,Good,No,Yobe,Surulere,"93, Street in Surulere, Lagos State",Day,nwanyinnaya.mohammed@laurelhigh.com,JSS3,General,Clubs,2018-09-01,2021-06-30
+STU283,Silas,Osanyintipin,Male,15,2009-05-28,Good,No,Taraba,Lagos Mainland,"94, Avenue in Lagos Mainland, Lagos State",Boarding,silas.osanyintipin@laurelhigh.com,SS3,Art,None,2017-09-01,2017-06-30
+STU284,Olamide,Tsadu,Female,17,2007-09-13,Poor,No,Katsina,Lagos Mainland,"1, Road in Lagos Mainland, Lagos State",Day,olamide.tsadu@laurelhigh.com,SS2,Engineering,"Clubs, Music",2021-09-01,2022-06-30
+STU285,Ternenge,Ebi,Male,18,2006-09-05,Average,No,Ondo,Mushin,"88, Avenue in Mushin, Lagos State",Day,ternenge.ebi@laurelhigh.com,SS1,Pure Science,Sports,2019-09-01,2021-06-30
+STU286,Philip,Oduwole,Female,13,2011-04-04,Poor,Yes,Bauchi,Alimosho,"14, Avenue in Alimosho, Lagos State",Day,philip.oduwole@laurelhigh.com,JSS1,General,Clubs,2018-09-01,2023-06-30
+STU287,Yohanna,Ehanmo,Female,10,2014-08-27,Poor,No,Kaduna,Apapa,"27, Road in Apapa, Lagos State",Boarding,yohanna.ehanmo@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU288,Binam,Yusuf,Male,18,2006-02-27,Good,No,Nasarawa,Shomolu,"6, Road in Shomolu, Lagos State",Boarding,binam.yusuf@laurelhigh.com,JSS2,General,"Sports, Clubs",2020-09-01,2024-06-30
+STU289,Victoria,Sunday,Female,19,2005-09-24,Good,No,Yobe,Oshodi-Isolo,"81, Street in Oshodi-Isolo, Lagos State",Boarding,victoria.sunday@laurelhigh.com,JSS3,General,Clubs,2021-09-01,2024-06-30
+STU290,Igbalumun,Andrew,Female,12,2012-09-11,Good,No,Cross River,Kosofe,"71, Avenue in Kosofe, Lagos State",Boarding,igbalumun.andrew@laurelhigh.com,SS1,Engineering,None,2017-09-01,2019-06-30
+STU291,Fatai,Ezeji,Female,20,2004-06-20,Good,No,Abia,Ojo,"56, Road in Ojo, Lagos State",Boarding,fatai.ezeji@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU292,Betty,Musa,Female,10,2014-05-20,Poor,No,Delta,Surulere,"93, Street in Surulere, Lagos State",Day,betty.musa@laurelhigh.com,JSS1,General,"Drama, Sports",2020-09-01,2025-06-30
+STU293,Funbi,Yusuf,Male,18,2006-10-19,Average,No,Abia,Shomolu,"66, Road in Shomolu, Lagos State",Day,funbi.yusuf@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU294,Saidu,Olayinka,Female,13,2011-02-19,Poor,No,Enugu,Oshodi-Isolo,"33, Avenue in Oshodi-Isolo, Lagos State",Day,saidu.olayinka@laurelhigh.com,JSS2,General,Drama,2020-09-01,2024-06-30
+STU295,Samuel,Eze,Female,20,2004-12-26,Poor,Yes,Oyo,Epe,"39, Street in Epe, Lagos State",Boarding,samuel.eze@laurelhigh.com,JSS3,General,Drama,2021-09-01,2024-06-30
+STU296,Blessing,Udofia,Male,10,2014-07-02,Good,No,Adamawa,Epe,"82, Road in Epe, Lagos State",Boarding,blessing.udofia@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU297,Lovina,Anaba,Female,20,2004-08-25,Average,No,Kaduna,Alimosho,"94, Avenue in Alimosho, Lagos State",Boarding,lovina.anaba@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU298,Daniel,Ibrahim,Female,15,2009-10-24,Poor,No,Akwa Ibom,Ikeja,"11, Avenue in Ikeja, Lagos State",Boarding,daniel.ibrahim@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU299,Emmanuel,Okolie,Male,18,2006-07-21,Good,No,Bauchi,Amuwo-Odofin,"26, Avenue in Amuwo-Odofin, Lagos State",Day,emmanuel.okolie@laurelhigh.com,JSS3,General,Clubs,2017-09-01,2020-06-30
+STU300,Nwanyinnaya,Ibiam,Female,20,2004-02-22,Good,No,Kebbi,Lagos Island,"74, Street in Lagos Island, Lagos State",Boarding,nwanyinnaya.ibiam@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU301,Lilian,Ayeni,Female,15,2009-10-05,Average,No,Kogi,Kosofe,"79, Avenue in Kosofe, Lagos State",Day,lilian.ayeni@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU302,Ugonma,Ekanem,Female,13,2011-05-01,Poor,No,Benue,Alimosho,"80, Street in Alimosho, Lagos State",Day,ugonma.ekanem@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU303,Tolu,Eze,Female,13,2011-05-18,Average,No,Jigawa,Mushin,"70, Road in Mushin, Lagos State",Day,tolu.eze@laurelhigh.com,JSS3,General,Sports,2020-09-01,2023-06-30
+STU304,Emeke,Aduku,Female,13,2011-05-02,Average,No,Gombe,Eti-Osa,"90, Road in Eti-Osa, Lagos State",Boarding,emeke.aduku@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU305,Oluwaseun,Kelechi,Male,20,2004-07-17,Average,No,Plateau,Eti-Osa,"50, Street in Eti-Osa, Lagos State",Day,oluwaseun.kelechi@laurelhigh.com,SS3,Commercial,None,2021-09-01,2021-06-30
+STU306,Kingsley,Osakwe,Female,10,2014-09-10,Poor,No,Lagos,Ikorodu,"6, Street in Ikorodu, Lagos State",Boarding,kingsley.osakwe@laurelhigh.com,JSS2,General,Sports,2018-09-01,2022-06-30
+STU307,Monisola,Omesili,Female,14,2010-05-13,Good,No,Zamfara,Badagry,"8, Road in Badagry, Lagos State",Boarding,monisola.omesili@laurelhigh.com,SS3,Engineering,"Music, Clubs",2021-09-01,2021-06-30
+STU308,Umahi,Akinlade,Female,18,2006-11-22,Average,No,Bauchi,Surulere,"87, Road in Surulere, Lagos State",Boarding,umahi.akinlade@laurelhigh.com,JSS1,General,Debate,2020-09-01,2025-06-30
+STU309,Victor,Yakubu,Male,20,2004-09-22,Average,No,Ondo,Mushin,"18, Road in Mushin, Lagos State",Boarding,victor.yakubu@laurelhigh.com,SS3,Commercial,Clubs,2020-09-01,2020-06-30
+STU310,Rashidat,Mmaduako,Female,15,2009-09-24,Poor,No,Borno,Kosofe,"9, Road in Kosofe, Lagos State",Boarding,rashidat.mmaduako@laurelhigh.com,JSS1,General,"Music, Sports",2019-09-01,2024-06-30
+STU311,Betty,Musa,Female,20,2004-03-25,Poor,No,Bayelsa,Ajeromi-Ifelodun,"95, Avenue in Ajeromi-Ifelodun, Lagos State",Day,betty.musa@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU312,Kingsley,Okeke,Female,15,2009-08-05,Good,No,Kaduna,Agege,"11, Road in Agege, Lagos State",Day,kingsley.okeke@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU313,Kabiru,Aduku,Male,12,2012-04-02,Good,No,Imo,Amuwo-Odofin,"21, Street in Amuwo-Odofin, Lagos State",Day,kabiru.aduku@laurelhigh.com,JSS3,General,"Debate, Music",2021-09-01,2024-06-30
+STU314,Felix,Abdullahi,Female,17,2007-08-08,Average,No,Taraba,Epe,"89, Avenue in Epe, Lagos State",Boarding,felix.abdullahi@laurelhigh.com,JSS3,General,Debate,2021-09-01,2024-06-30
+STU315,Funke,Udofia,Female,18,2006-01-17,Average,No,Oyo,Ikorodu,"83, Road in Ikorodu, Lagos State",Day,funke.udofia@laurelhigh.com,JSS1,General,"Sports, Music",2018-09-01,2023-06-30
+STU316,Inimfon,Akinola,Female,13,2011-07-10,Poor,No,Imo,Alimosho,"38, Avenue in Alimosho, Lagos State",Day,inimfon.akinola@laurelhigh.com,SS2,Pure Science,None,2019-09-01,2020-06-30
+STU317,Mathew,Afolayan,Female,20,2004-12-17,Average,Yes,Ogun,Ajeromi-Ifelodun,"58, Street in Ajeromi-Ifelodun, Lagos State",Boarding,mathew.afolayan@laurelhigh.com,JSS1,General,"Clubs, Music",2017-09-01,2022-06-30
+STU318,Gbenga,Etim,Male,17,2007-04-15,Poor,No,Delta,Kosofe,"76, Road in Kosofe, Lagos State",Day,gbenga.etim@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU319,Blessing,Jayeola,Female,18,2006-12-26,Average,No,Delta,Apapa,"91, Avenue in Apapa, Lagos State",Day,blessing.jayeola@laurelhigh.com,SS3,Art,None,2017-09-01,2017-06-30
+STU320,Funke,Ajayi,Female,20,2004-03-06,Poor,Yes,Gombe,Ibeju-Lekki,"20, Street in Ibeju-Lekki, Lagos State",Boarding,funke.ajayi@laurelhigh.com,SS2,Pure Science,None,2021-09-01,2022-06-30
+STU321,Fatai,Ahmad,Female,13,2011-05-01,Average,Yes,Taraba,Ikeja,"1, Road in Ikeja, Lagos State",Day,fatai.ahmad@laurelhigh.com,JSS3,General,Sports,2018-09-01,2021-06-30
+STU322,Anzaku,Udo,Male,17,2007-10-01,Average,No,Rivers,Ojo,"11, Road in Ojo, Lagos State",Day,anzaku.udo@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU323,Emeka,Udo,Female,10,2014-11-19,Average,No,Borno,Lagos Mainland,"19, Street in Lagos Mainland, Lagos State",Day,emeka.udo@laurelhigh.com,SS3,Commercial,"Sports, Clubs",2019-09-01,2019-06-30
+STU324,Tolu,Ibiam,Female,19,2005-08-24,Good,No,Sokoto,Epe,"72, Street in Epe, Lagos State",Boarding,tolu.ibiam@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU325,Monisola,Okeke,Female,18,2006-08-05,Average,No,Imo,Ojo,"9, Avenue in Ojo, Lagos State",Day,monisola.okeke@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU326,Agai,Adebayo,Female,11,2013-11-17,Average,No,Jigawa,Alimosho,"74, Road in Alimosho, Lagos State",Boarding,agai.adebayo@laurelhigh.com,SS3,Engineering,"Drama, Debate",2018-09-01,2018-06-30
+STU327,Amiel,Otu,Female,12,2012-08-17,Good,No,Oyo,Lagos Mainland,"79, Road in Lagos Mainland, Lagos State",Day,amiel.otu@laurelhigh.com,SS2,Pure Science,"Clubs, Music",2018-09-01,2019-06-30
+STU328,Paul,Udo,Female,20,2004-04-26,Good,No,Adamawa,Ajeromi-Ifelodun,"16, Road in Ajeromi-Ifelodun, Lagos State",Day,paul.udo@laurelhigh.com,SS1,Pure Science,None,2018-09-01,2020-06-30
+STU329,Ikechukwu,Akinbode,Female,11,2013-09-18,Average,No,Yobe,Shomolu,"40, Avenue in Shomolu, Lagos State",Boarding,ikechukwu.akinbode@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU330,Yohanna,Yahaya,Female,12,2012-06-22,Poor,No,Oyo,Agege,"25, Avenue in Agege, Lagos State",Day,yohanna.yahaya@laurelhigh.com,JSS3,General,Music,2018-09-01,2021-06-30
+STU331,Zaharudeen,Ogunyemi,Male,17,2007-01-27,Average,No,Edo,Lagos Island,"53, Road in Lagos Island, Lagos State",Day,zaharudeen.ogunyemi@laurelhigh.com,JSS3,General,Drama,2017-09-01,2020-06-30
+STU332,Joseph,Abubakar,Male,12,2012-06-13,Poor,No,Anambra,Apapa,"36, Street in Apapa, Lagos State",Boarding,joseph.abubakar@laurelhigh.com,SS1,Engineering,Music,2020-09-01,2022-06-30
+STU333,Matthew,Ajibola,Female,16,2008-04-12,Average,No,Abia,Shomolu,"12, Avenue in Shomolu, Lagos State",Day,matthew.ajibola@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU334,Oliver,Ehanmo,Female,11,2013-01-26,Poor,No,Enugu,Mushin,"57, Road in Mushin, Lagos State",Boarding,oliver.ehanmo@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU335,Nwanyinnaya,Mohammed,Male,12,2012-09-22,Average,No,Ogun,Lagos Island,"99, Street in Lagos Island, Lagos State",Day,nwanyinnaya.mohammed@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU336,Daniel,Abdulaziz,Male,15,2009-02-17,Good,No,Kwara,Apapa,"60, Street in Apapa, Lagos State",Boarding,daniel.abdulaziz@laurelhigh.com,SS2,General,Drama,2019-09-01,2020-06-30
+STU337,Sani,Igbo,Male,18,2006-11-04,Poor,No,Yobe,Shomolu,"41, Avenue in Shomolu, Lagos State",Day,sani.igbo@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU338,Nnedinma,Oguntayo,Female,15,2009-12-26,Average,Yes,Ondo,Ikorodu,"35, Street in Ikorodu, Lagos State",Boarding,nnedinma.oguntayo@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU339,Fatai,Tsadu,Male,10,2014-01-04,Average,No,Delta,Ikeja,"61, Road in Ikeja, Lagos State",Boarding,fatai.tsadu@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU340,Daniel,Udo,Female,13,2011-09-03,Good,No,Ebonyi,Lagos Island,"92, Road in Lagos Island, Lagos State",Day,daniel.udo@laurelhigh.com,SS3,Engineering,None,2018-09-01,2018-06-30
+STU341,Emeke,Odugu,Female,13,2011-10-09,Poor,No,Zamfara,Amuwo-Odofin,"29, Street in Amuwo-Odofin, Lagos State",Boarding,emeke.odugu@laurelhigh.com,SS3,Art,Drama,2018-09-01,2018-06-30
+STU342,Samuel,Eze,Male,11,2013-08-28,Poor,No,Kogi,Amuwo-Odofin,"45, Avenue in Amuwo-Odofin, Lagos State",Boarding,samuel.eze@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU343,Zayyanu,Afolayan,Male,20,2004-09-15,Poor,No,Plateau,Ikorodu,"10, Avenue in Ikorodu, Lagos State",Day,zayyanu.afolayan@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU344,Ngozi,Mohammed,Male,15,2009-10-14,Good,No,Rivers,Apapa,"27, Road in Apapa, Lagos State",Day,ngozi.mohammed@laurelhigh.com,SS2,Engineering,Clubs,2018-09-01,2019-06-30
+STU345,Jerome,Augustine,Female,11,2013-08-11,Poor,No,Niger,Amuwo-Odofin,"76, Road in Amuwo-Odofin, Lagos State",Day,jerome.augustine@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU346,Harisu,Ibiam,Male,15,2009-11-02,Poor,No,Plateau,Surulere,"64, Road in Surulere, Lagos State",Boarding,harisu.ibiam@laurelhigh.com,JSS1,General,"Sports, Music",2020-09-01,2025-06-30
+STU347,Jafar,Etim,Female,19,2005-04-22,Average,No,Sokoto,Epe,"58, Street in Epe, Lagos State",Boarding,jafar.etim@laurelhigh.com,SS3,Engineering,Drama,2019-09-01,2019-06-30
+STU348,Chika,Njoku,Male,16,2008-01-12,Average,Yes,Abuja,Badagry,"17, Avenue in Badagry, Lagos State",Boarding,chika.njoku@laurelhigh.com,SS3,General,Drama,2021-09-01,2021-06-30
+STU349,Musa,Adebayo,Male,19,2005-06-23,Good,No,Kogi,Ojo,"51, Road in Ojo, Lagos State",Day,musa.adebayo@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU350,Philip,Ogundele,Male,16,2008-03-10,Poor,No,Bauchi,Ikorodu,"47, Avenue in Ikorodu, Lagos State",Day,philip.ogundele@laurelhigh.com,SS3,Art,None,2020-09-01,2020-06-30
+STU351,Femi,Sanni,Female,11,2013-07-28,Average,No,Ekiti,Ikeja,"18, Road in Ikeja, Lagos State",Boarding,femi.sanni@laurelhigh.com,JSS3,General,"Clubs, Music",2017-09-01,2020-06-30
+STU352,Haladu,Ogunsanya,Female,13,2011-10-01,Good,No,Delta,Lagos Mainland,"24, Avenue in Lagos Mainland, Lagos State",Boarding,haladu.ogunsanya@laurelhigh.com,JSS3,General,Drama,2020-09-01,2023-06-30
+STU353,Daniel,Udofia,Male,15,2009-08-23,Poor,No,Kwara,Amuwo-Odofin,"15, Road in Amuwo-Odofin, Lagos State",Day,daniel.udofia@laurelhigh.com,JSS1,General,"Drama, Debate",2017-09-01,2022-06-30
+STU354,Agai,Igbe,Female,19,2005-01-11,Good,No,Rivers,Ikorodu,"40, Road in Ikorodu, Lagos State",Boarding,agai.igbe@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU355,Adeola,Okon,Female,12,2012-10-24,Poor,No,Ebonyi,Eti-Osa,"5, Road in Eti-Osa, Lagos State",Day,adeola.okon@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU356,Mhungur,Egbon,Female,10,2014-02-05,Average,No,Nasarawa,Epe,"37, Avenue in Epe, Lagos State",Boarding,mhungur.egbon@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU357,Godwin,Abdulaziz,Male,19,2005-12-05,Poor,No,Katsina,Ifako-Ijaye,"23, Road in Ifako-Ijaye, Lagos State",Boarding,godwin.abdulaziz@laurelhigh.com,SS1,Art,None,2019-09-01,2021-06-30
+STU358,Adeola,Sogbetun,Female,11,2013-03-27,Poor,No,Ogun,Lagos Island,"19, Road in Lagos Island, Lagos State",Day,adeola.sogbetun@laurelhigh.com,JSS3,General,Music,2018-09-01,2021-06-30
+STU359,Ternenge,Adesakin,Male,20,2004-01-06,Poor,Yes,Oyo,Alimosho,"34, Street in Alimosho, Lagos State",Boarding,ternenge.adesakin@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU360,Zahra,Okolie,Male,12,2012-01-10,Poor,Yes,Imo,Shomolu,"68, Avenue in Shomolu, Lagos State",Day,zahra.okolie@laurelhigh.com,SS3,Pure Science,Clubs,2018-09-01,2018-06-30
+STU361,Chinonso,Yusuf,Female,19,2005-06-09,Good,Yes,Ondo,Ojo,"84, Avenue in Ojo, Lagos State",Boarding,chinonso.yusuf@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU362,Abdullahi,Obi,Male,18,2006-12-06,Poor,No,Kano,Mushin,"44, Road in Mushin, Lagos State",Boarding,abdullahi.obi@laurelhigh.com,JSS2,General,Sports,2021-09-01,2025-06-30
+STU363,Felix,Ahmed,Male,15,2009-05-09,Good,Yes,Ogun,Ajeromi-Ifelodun,"29, Road in Ajeromi-Ifelodun, Lagos State",Day,felix.ahmed@laurelhigh.com,JSS1,General,Sports,2021-09-01,2026-06-30
+STU364,Sadiq,Osakwe,Female,12,2012-11-19,Poor,No,Adamawa,Epe,"49, Road in Epe, Lagos State",Boarding,sadiq.osakwe@laurelhigh.com,SS3,General,Drama,2020-09-01,2020-06-30
+STU365,Sunday,Yaro,Male,16,2008-06-09,Poor,No,Niger,Shomolu,"89, Road in Shomolu, Lagos State",Boarding,sunday.yaro@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU366,Joseph,Ibrahim,Female,14,2010-02-16,Good,No,Anambra,Shomolu,"23, Avenue in Shomolu, Lagos State",Day,joseph.ibrahim@laurelhigh.com,SS3,Engineering,None,2020-09-01,2020-06-30
+STU367,Sani,Osanyintipin,Female,19,2005-08-23,Average,No,Ondo,Mushin,"83, Street in Mushin, Lagos State",Boarding,sani.osanyintipin@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU368,Esther,Oyeniran,Female,10,2014-05-05,Average,No,Ekiti,Agege,"86, Avenue in Agege, Lagos State",Boarding,esther.oyeniran@laurelhigh.com,SS2,Engineering,None,2018-09-01,2019-06-30
+STU369,Joseph,Ogundele,Female,13,2011-12-27,Good,No,Akwa Ibom,Ikorodu,"1, Avenue in Ikorodu, Lagos State",Boarding,joseph.ogundele@laurelhigh.com,SS2,Engineering,Drama,2021-09-01,2022-06-30
+STU370,Hassan,Okorie,Male,18,2006-08-25,Poor,No,Nasarawa,Lagos Mainland,"44, Street in Lagos Mainland, Lagos State",Boarding,hassan.okorie@laurelhigh.com,SS2,Art,Debate,2020-09-01,2021-06-30
+STU371,Agai,Adebayo,Male,17,2007-08-24,Average,No,Imo,Lagos Mainland,"11, Road in Lagos Mainland, Lagos State",Boarding,agai.adebayo@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU372,Ngozi,Uwa,Female,17,2007-01-02,Poor,No,Niger,Eti-Osa,"69, Avenue in Eti-Osa, Lagos State",Day,ngozi.uwa@laurelhigh.com,JSS2,General,Sports,2019-09-01,2023-06-30
+STU373,Vivian,Saadu,Male,12,2012-04-03,Good,No,Ogun,Ikorodu,"95, Road in Ikorodu, Lagos State",Boarding,vivian.saadu@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU374,Sani,Kolapo,Male,10,2014-01-10,Good,No,Kwara,Ikeja,"23, Road in Ikeja, Lagos State",Day,sani.kolapo@laurelhigh.com,SS3,Pure Science,Clubs,2021-09-01,2021-06-30
+STU375,Blessing,Jayeola,Male,13,2011-07-11,Average,No,Ekiti,Epe,"9, Street in Epe, Lagos State",Boarding,blessing.jayeola@laurelhigh.com,SS3,Commercial,None,2018-09-01,2018-06-30
+STU376,Mustapha,Ibrahim,Female,12,2012-02-09,Average,No,Jigawa,Ibeju-Lekki,"43, Street in Ibeju-Lekki, Lagos State",Day,mustapha.ibrahim@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU377,Gerald,Isong,Male,12,2012-10-13,Poor,Yes,Kano,Alimosho,"13, Road in Alimosho, Lagos State",Day,gerald.isong@laurelhigh.com,SS2,Pure Science,None,2021-09-01,2022-06-30
+STU378,Paul,Kelechi,Male,16,2008-12-05,Average,No,Benue,Eti-Osa,"89, Avenue in Eti-Osa, Lagos State",Day,paul.kelechi@laurelhigh.com,JSS1,General,Debate,2019-09-01,2024-06-30
+STU379,Felicia,Lawal,Male,17,2007-11-27,Good,No,Kwara,Kosofe,"79, Street in Kosofe, Lagos State",Day,felicia.lawal@laurelhigh.com,SS2,Pure Science,None,2019-09-01,2020-06-30
+STU380,Roseline,Adeola,Male,15,2009-09-08,Good,No,Ogun,Epe,"98, Road in Epe, Lagos State",Day,roseline.adeola@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU381,Isong,Yahaya,Female,12,2012-01-02,Good,No,Borno,Amuwo-Odofin,"21, Road in Amuwo-Odofin, Lagos State",Boarding,isong.yahaya@laurelhigh.com,SS1,Art,None,2019-09-01,2021-06-30
+STU382,Philip,Oduwole,Female,12,2012-08-17,Poor,Yes,Plateau,Ikorodu,"21, Street in Ikorodu, Lagos State",Boarding,philip.oduwole@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU383,Kingsley,Osakwe,Male,15,2009-04-24,Average,No,Abia,Ifako-Ijaye,"30, Street in Ifako-Ijaye, Lagos State",Day,kingsley.osakwe@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU384,Jamilu,Alabi,Male,12,2012-08-06,Poor,Yes,Ekiti,Ojo,"28, Road in Ojo, Lagos State",Boarding,jamilu.alabi@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU385,Zahra,Yakubu,Male,12,2012-10-02,Poor,No,Kebbi,Lagos Island,"5, Road in Lagos Island, Lagos State",Boarding,zahra.yakubu@laurelhigh.com,JSS2,General,"Debate, Clubs",2021-09-01,2025-06-30
+STU386,Maxwell,Bello,Female,20,2004-10-18,Average,No,Sokoto,Kosofe,"79, Street in Kosofe, Lagos State",Boarding,maxwell.bello@laurelhigh.com,SS3,Pure Science,"Debate, Music",2021-09-01,2021-06-30
+STU387,Emmanuel,Ogunbanjo,Male,13,2011-10-08,Good,No,Abuja,Oshodi-Isolo,"42, Avenue in Oshodi-Isolo, Lagos State",Day,emmanuel.ogunbanjo@laurelhigh.com,SS3,Art,"Sports, Debate",2017-09-01,2017-06-30
+STU388,Ugonma,Okafor,Male,18,2006-12-27,Average,No,Lagos,Ojo,"51, Avenue in Ojo, Lagos State",Boarding,ugonma.okafor@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU389,Omotomilola,Ibrahim,Female,14,2010-02-01,Average,No,Jigawa,Lagos Mainland,"31, Road in Lagos Mainland, Lagos State",Day,omotomilola.ibrahim@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU390,Zahra,Yakubu,Female,16,2008-11-15,Average,No,Edo,Ikeja,"24, Avenue in Ikeja, Lagos State",Day,zahra.yakubu@laurelhigh.com,SS2,General,None,2021-09-01,2022-06-30
+STU391,Olamide,Tsadu,Male,18,2006-11-03,Poor,No,Cross River,Epe,"74, Street in Epe, Lagos State",Day,olamide.tsadu@laurelhigh.com,SS1,General,Drama,2019-09-01,2021-06-30
+STU392,Gerald,Kolapo,Male,10,2014-03-21,Average,No,Enugu,Epe,"47, Avenue in Epe, Lagos State",Boarding,gerald.kolapo@laurelhigh.com,JSS3,General,Music,2021-09-01,2024-06-30
+STU393,Adamu,Okeke,Female,19,2005-12-25,Good,No,Ondo,Amuwo-Odofin,"90, Street in Amuwo-Odofin, Lagos State",Day,adamu.okeke@laurelhigh.com,JSS1,General,"Clubs, Debate",2019-09-01,2024-06-30
+STU394,Abiodun,Yahaya,Female,17,2007-02-16,Average,No,Enugu,Ajeromi-Ifelodun,"65, Road in Ajeromi-Ifelodun, Lagos State",Day,abiodun.yahaya@laurelhigh.com,SS2,Commercial,None,2017-09-01,2018-06-30
+STU395,Victoria,Eze,Male,16,2008-02-04,Good,No,Edo,Apapa,"23, Avenue in Apapa, Lagos State",Day,victoria.eze@laurelhigh.com,JSS1,General,Debate,2021-09-01,2026-06-30
+STU396,Abiodun,Ekpe,Male,20,2004-08-12,Good,No,Kogi,Ojo,"70, Street in Ojo, Lagos State",Day,abiodun.ekpe@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU397,Binny,Ishaya,Female,16,2008-11-21,Good,No,Kaduna,Lagos Island,"75, Avenue in Lagos Island, Lagos State",Boarding,binny.ishaya@laurelhigh.com,SS2,Engineering,Clubs,2018-09-01,2019-06-30
+STU398,Philip,Akinola,Female,12,2012-08-12,Poor,No,Oyo,Eti-Osa,"34, Street in Eti-Osa, Lagos State",Day,philip.akinola@laurelhigh.com,SS3,Art,None,2021-09-01,2021-06-30
+STU399,Femi,Anyanwu,Female,12,2012-12-22,Poor,No,Gombe,Eti-Osa,"23, Road in Eti-Osa, Lagos State",Day,femi.anyanwu@laurelhigh.com,SS2,Art,None,2020-09-01,2021-06-30
+STU400,Joy,Ogidi,Female,13,2011-01-22,Poor,No,Katsina,Kosofe,"72, Road in Kosofe, Lagos State",Day,joy.ogidi@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU401,Adewumi,Fashola,Female,16,2008-08-11,Average,No,Zamfara,Agege,"64, Street in Agege, Lagos State",Boarding,adewumi.fashola@laurelhigh.com,JSS1,General,"Drama, Clubs",2017-09-01,2022-06-30
+STU402,Kenith,Sunday,Male,17,2007-02-24,Poor,No,Oyo,Ibeju-Lekki,"44, Road in Ibeju-Lekki, Lagos State",Boarding,kenith.sunday@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU403,Amomot,Arinze,Male,17,2007-06-02,Average,No,Akwa Ibom,Oshodi-Isolo,"46, Street in Oshodi-Isolo, Lagos State",Day,amomot.arinze@laurelhigh.com,SS1,Engineering,Drama,2020-09-01,2022-06-30
+STU404,Chidi,Oguntayo,Male,18,2006-08-11,Good,No,Ondo,Apapa,"51, Street in Apapa, Lagos State",Boarding,chidi.oguntayo@laurelhigh.com,SS1,General,"Drama, Debate",2017-09-01,2019-06-30
+STU405,Ifeanyi,Ehanmo,Female,14,2010-05-15,Average,No,Imo,Agege,"45, Avenue in Agege, Lagos State",Boarding,ifeanyi.ehanmo@laurelhigh.com,SS3,Art,Debate,2021-09-01,2021-06-30
+STU406,Inimfon,Mohammed,Male,12,2012-02-05,Good,No,Gombe,Ojo,"76, Road in Ojo, Lagos State",Boarding,inimfon.mohammed@laurelhigh.com,JSS1,General,"Clubs, Drama",2018-09-01,2023-06-30
+STU407,Chika,Njoku,Female,16,2008-08-23,Average,No,Abuja,Shomolu,"23, Road in Shomolu, Lagos State",Boarding,chika.njoku@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU408,Zayyanu,Sunday,Female,19,2005-09-24,Poor,No,Ekiti,Eti-Osa,"39, Avenue in Eti-Osa, Lagos State",Boarding,zayyanu.sunday@laurelhigh.com,JSS3,General,Music,2021-09-01,2024-06-30
+STU409,Zahra,Ibiam,Male,16,2008-12-21,Good,No,Rivers,Eti-Osa,"23, Avenue in Eti-Osa, Lagos State",Boarding,zahra.ibiam@laurelhigh.com,JSS1,General,Debate,2021-09-01,2026-06-30
+STU410,Adewumi,Onyeka,Female,14,2010-08-23,Average,No,Rivers,Ojo,"81, Road in Ojo, Lagos State",Day,adewumi.onyeka@laurelhigh.com,SS3,Engineering,Sports,2019-09-01,2019-06-30
+STU411,Adewumi,Onyeka,Female,17,2007-06-06,Average,Yes,Nasarawa,Lagos Island,"89, Street in Lagos Island, Lagos State",Day,adewumi.onyeka@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU412,Chisom,Taiwo,Female,18,2006-03-25,Poor,No,Sokoto,Apapa,"25, Road in Apapa, Lagos State",Boarding,chisom.taiwo@laurelhigh.com,JSS1,General,Drama,2020-09-01,2025-06-30
+STU413,Philip,Rasaki,Female,19,2005-01-05,Poor,No,Enugu,Ikorodu,"46, Street in Ikorodu, Lagos State",Day,philip.rasaki@laurelhigh.com,JSS3,General,Debate,2019-09-01,2022-06-30
+STU414,Jamilu,Adeleke,Female,13,2011-10-23,Poor,No,Jigawa,Badagry,"25, Road in Badagry, Lagos State",Boarding,jamilu.adeleke@laurelhigh.com,SS3,Engineering,Sports,2017-09-01,2017-06-30
+STU415,Chinonso,Yusuf,Male,10,2014-05-23,Average,No,Niger,Ikeja,"62, Avenue in Ikeja, Lagos State",Boarding,chinonso.yusuf@laurelhigh.com,JSS2,General,"Clubs, Drama",2018-09-01,2022-06-30
+STU416,Musa,Igwe,Male,12,2012-05-05,Poor,No,Adamawa,Ikeja,"89, Street in Ikeja, Lagos State",Day,musa.igwe@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU417,Esther,Oyeniran,Female,13,2011-11-17,Average,No,Rivers,Alimosho,"14, Street in Alimosho, Lagos State",Day,esther.oyeniran@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU418,Felix,Abdullahi,Male,11,2013-10-07,Poor,No,Zamfara,Ifako-Ijaye,"78, Street in Ifako-Ijaye, Lagos State",Boarding,felix.abdullahi@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU419,Patience,Yaro,Male,18,2006-10-08,Average,No,Ebonyi,Kosofe,"100, Road in Kosofe, Lagos State",Day,patience.yaro@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU420,Adewumi,Obi,Female,18,2006-02-07,Good,No,Yobe,Kosofe,"1, Road in Kosofe, Lagos State",Day,adewumi.obi@laurelhigh.com,SS3,Commercial,Music,2018-09-01,2018-06-30
+STU421,Adeola,Sogbetun,Male,13,2011-07-04,Poor,Yes,Ebonyi,Ojo,"66, Street in Ojo, Lagos State",Boarding,adeola.sogbetun@laurelhigh.com,SS2,General,None,2019-09-01,2020-06-30
+STU422,Kingsley,Mohammed,Female,10,2014-08-04,Good,No,Enugu,Ikorodu,"11, Avenue in Ikorodu, Lagos State",Day,kingsley.mohammed@laurelhigh.com,JSS2,General,Drama,2018-09-01,2022-06-30
+STU423,Zayyanu,Sunday,Female,13,2011-11-12,Average,No,Bayelsa,Ojo,"9, Avenue in Ojo, Lagos State",Day,zayyanu.sunday@laurelhigh.com,JSS1,General,Debate,2018-09-01,2023-06-30
+STU424,Emmanuel,Jayeola,Female,19,2005-03-03,Good,No,Borno,Surulere,"14, Road in Surulere, Lagos State",Day,emmanuel.jayeola@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU425,Chinonso,Okeke,Male,19,2005-11-13,Poor,No,Cross River,Shomolu,"76, Avenue in Shomolu, Lagos State",Boarding,chinonso.okeke@laurelhigh.com,JSS2,General,"Debate, Drama",2017-09-01,2021-06-30
+STU426,Augustina,Uwa,Male,17,2007-03-01,Poor,Yes,Adamawa,Amuwo-Odofin,"30, Road in Amuwo-Odofin, Lagos State",Boarding,augustina.uwa@laurelhigh.com,JSS1,General,"Debate, Sports",2021-09-01,2026-06-30
+STU427,Emmanuel,Eze,Female,19,2005-02-22,Average,No,Abia,Eti-Osa,"80, Street in Eti-Osa, Lagos State",Boarding,emmanuel.eze@laurelhigh.com,SS2,Pure Science,None,2018-09-01,2019-06-30
+STU428,Sunday,Ogundele,Female,18,2006-01-14,Poor,No,Katsina,Lagos Island,"70, Street in Lagos Island, Lagos State",Boarding,sunday.ogundele@laurelhigh.com,SS3,Pure Science,None,2021-09-01,2021-06-30
+STU429,Umar,Ajayi,Female,18,2006-12-06,Good,No,Kwara,Kosofe,"85, Avenue in Kosofe, Lagos State",Boarding,umar.ajayi@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU430,Olamide,Oguntayo,Female,20,2004-09-19,Poor,No,Adamawa,Amuwo-Odofin,"71, Road in Amuwo-Odofin, Lagos State",Boarding,olamide.oguntayo@laurelhigh.com,JSS3,General,"Clubs, Sports",2017-09-01,2020-06-30
+STU431,Mhungur,Eze,Male,14,2010-01-19,Good,No,Imo,Lagos Mainland,"42, Street in Lagos Mainland, Lagos State",Boarding,mhungur.eze@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU432,Ibrahim,Ochoja,Male,15,2009-01-22,Poor,No,Plateau,Lagos Mainland,"53, Avenue in Lagos Mainland, Lagos State",Day,ibrahim.ochoja@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU433,Musa,Nwaogwugwu,Female,12,2012-06-02,Average,No,Zamfara,Lagos Island,"3, Road in Lagos Island, Lagos State",Day,musa.nwaogwugwu@laurelhigh.com,JSS3,General,Debate,2018-09-01,2021-06-30
+STU434,Agai,Adebayo,Male,15,2009-07-11,Poor,Yes,Rivers,Agege,"49, Road in Agege, Lagos State",Boarding,agai.adebayo@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU435,Haladu,Afolayan,Female,19,2005-07-07,Average,No,Lagos,Kosofe,"39, Avenue in Kosofe, Lagos State",Boarding,haladu.afolayan@laurelhigh.com,JSS3,General,"Clubs, Music",2021-09-01,2024-06-30
+STU436,Temitayo,Jayeola,Male,13,2011-02-23,Poor,No,Zamfara,Surulere,"80, Road in Surulere, Lagos State",Boarding,temitayo.jayeola@laurelhigh.com,SS3,Engineering,None,2021-09-01,2021-06-30
+STU437,Chika,Okwe,Female,20,2004-05-14,Average,No,Jigawa,Apapa,"39, Road in Apapa, Lagos State",Boarding,chika.okwe@laurelhigh.com,SS1,Art,None,2019-09-01,2021-06-30
+STU438,Emeke,Oni,Female,20,2004-03-19,Good,Yes,Osun,Agege,"91, Road in Agege, Lagos State",Day,emeke.oni@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU439,Adeola,Musa,Male,12,2012-12-22,Good,No,Yobe,Ajeromi-Ifelodun,"31, Street in Ajeromi-Ifelodun, Lagos State",Day,adeola.musa@laurelhigh.com,SS2,Pure Science,None,2018-09-01,2019-06-30
+STU440,Nwanyinnaya,Ogunyemi,Male,20,2004-11-20,Good,Yes,Bayelsa,Eti-Osa,"21, Avenue in Eti-Osa, Lagos State",Day,nwanyinnaya.ogunyemi@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU441,Agai,Igbe,Female,18,2006-11-02,Good,No,Zamfara,Amuwo-Odofin,"56, Avenue in Amuwo-Odofin, Lagos State",Boarding,agai.igbe@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU442,Ternenge,Ebi,Male,17,2007-02-11,Average,No,Osun,Alimosho,"3, Street in Alimosho, Lagos State",Day,ternenge.ebi@laurelhigh.com,SS1,Pure Science,"Sports, Debate",2021-09-01,2023-06-30
+STU443,Oliver,Ehanmo,Male,18,2006-09-09,Average,Yes,Oyo,Ifako-Ijaye,"86, Road in Ifako-Ijaye, Lagos State",Boarding,oliver.ehanmo@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU444,Clement,Ahmad,Male,13,2011-03-07,Good,No,Imo,Ojo,"19, Street in Ojo, Lagos State",Boarding,clement.ahmad@laurelhigh.com,SS3,Pure Science,None,2018-09-01,2018-06-30
+STU445,Adewumi,Fashola,Female,18,2006-11-08,Good,No,Enugu,Lagos Island,"55, Avenue in Lagos Island, Lagos State",Boarding,adewumi.fashola@laurelhigh.com,SS3,Commercial,None,2020-09-01,2020-06-30
+STU446,Temitope,Adeola,Female,14,2010-05-21,Good,No,Kwara,Oshodi-Isolo,"71, Avenue in Oshodi-Isolo, Lagos State",Boarding,temitope.adeola@laurelhigh.com,SS3,General,Music,2019-09-01,2019-06-30
+STU447,Haladu,Arinze,Male,11,2013-05-07,Poor,No,Akwa Ibom,Eti-Osa,"97, Street in Eti-Osa, Lagos State",Boarding,haladu.arinze@laurelhigh.com,SS3,Pure Science,Debate,2020-09-01,2020-06-30
+STU448,Musa,Adebayo,Male,16,2008-07-27,Good,No,Benue,Amuwo-Odofin,"43, Road in Amuwo-Odofin, Lagos State",Boarding,musa.adebayo@laurelhigh.com,JSS1,General,Clubs,2020-09-01,2025-06-30
+STU449,Adeola,Okon,Male,10,2014-11-21,Average,No,Osun,Ajeromi-Ifelodun,"98, Street in Ajeromi-Ifelodun, Lagos State",Boarding,adeola.okon@laurelhigh.com,JSS1,General,Music,2018-09-01,2023-06-30
+STU450,Sani,Igbo,Female,11,2013-04-17,Average,No,Zamfara,Ibeju-Lekki,"15, Street in Ibeju-Lekki, Lagos State",Boarding,sani.igbo@laurelhigh.com,SS2,Engineering,Drama,2020-09-01,2021-06-30
+STU451,Kenith,Yahaya,Female,20,2004-05-07,Average,No,Bauchi,Kosofe,"76, Avenue in Kosofe, Lagos State",Day,kenith.yahaya@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU452,Temitope,Adeola,Female,20,2004-08-07,Poor,No,Kogi,Epe,"30, Street in Epe, Lagos State",Boarding,temitope.adeola@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU453,Terhemba,Ekanem,Male,19,2005-12-17,Poor,No,Benue,Kosofe,"16, Street in Kosofe, Lagos State",Day,terhemba.ekanem@laurelhigh.com,JSS3,General,"Debate, Sports",2018-09-01,2021-06-30
+STU454,Victoria,Sunday,Female,16,2008-04-20,Poor,No,Kebbi,Amuwo-Odofin,"17, Avenue in Amuwo-Odofin, Lagos State",Day,victoria.sunday@laurelhigh.com,JSS1,General,Music,2019-09-01,2024-06-30
+STU455,Nanle,Onyeka,Female,14,2010-08-08,Poor,No,Borno,Eti-Osa,"31, Road in Eti-Osa, Lagos State",Day,nanle.onyeka@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU456,Binny,Ishaya,Female,16,2008-12-20,Average,No,Abia,Mushin,"91, Avenue in Mushin, Lagos State",Day,binny.ishaya@laurelhigh.com,JSS2,General,Sports,2021-09-01,2025-06-30
+STU457,Jamilu,Alabi,Male,10,2014-09-20,Poor,No,Ebonyi,Epe,"1, Avenue in Epe, Lagos State",Day,jamilu.alabi@laurelhigh.com,JSS2,General,Music,2018-09-01,2022-06-30
+STU458,Dare,Udofia,Female,15,2009-02-11,Poor,No,Gombe,Amuwo-Odofin,"60, Street in Amuwo-Odofin, Lagos State",Day,dare.udofia@laurelhigh.com,SS2,Art,None,2018-09-01,2019-06-30
+STU459,Khadijah,Femi,Male,16,2008-10-27,Poor,No,Ekiti,Lagos Mainland,"37, Avenue in Lagos Mainland, Lagos State",Boarding,khadijah.femi@laurelhigh.com,SS2,Engineering,None,2019-09-01,2020-06-30
+STU460,Peter,Adebayo,Female,20,2004-01-07,Good,No,Ekiti,Ikorodu,"82, Avenue in Ikorodu, Lagos State",Boarding,peter.adebayo@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU461,Adeola,Jayeola,Male,17,2007-06-23,Average,No,Edo,Ifako-Ijaye,"6, Avenue in Ifako-Ijaye, Lagos State",Day,adeola.jayeola@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU462,Bisi,Mohammed,Male,12,2012-09-27,Poor,No,Benue,Eti-Osa,"22, Road in Eti-Osa, Lagos State",Day,bisi.mohammed@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU463,Blessing,Udofia,Male,20,2004-01-10,Good,No,Niger,Amuwo-Odofin,"13, Avenue in Amuwo-Odofin, Lagos State",Boarding,blessing.udofia@laurelhigh.com,SS1,Pure Science,None,2021-09-01,2023-06-30
+STU464,Felicia,Uyieidem,Male,20,2004-11-09,Average,No,Kogi,Ajeromi-Ifelodun,"62, Avenue in Ajeromi-Ifelodun, Lagos State",Boarding,felicia.uyieidem@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU465,Uche,Anyanwu,Female,10,2014-06-26,Poor,No,Oyo,Mushin,"83, Avenue in Mushin, Lagos State",Day,uche.anyanwu@laurelhigh.com,JSS1,General,Clubs,2021-09-01,2026-06-30
+STU466,Sunday,Ekanem,Male,16,2008-04-06,Average,No,Katsina,Oshodi-Isolo,"12, Street in Oshodi-Isolo, Lagos State",Day,sunday.ekanem@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU467,Agai,Abdulqadir,Female,20,2004-06-22,Average,No,Ekiti,Eti-Osa,"78, Street in Eti-Osa, Lagos State",Boarding,agai.abdulqadir@laurelhigh.com,JSS1,General,Debate,2019-09-01,2024-06-30
+STU468,Philip,Ogundele,Female,16,2008-06-20,Good,No,Kebbi,Epe,"12, Avenue in Epe, Lagos State",Boarding,philip.ogundele@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU469,Nanle,Mohammed,Female,18,2006-09-03,Poor,No,Kaduna,Amuwo-Odofin,"81, Road in Amuwo-Odofin, Lagos State",Boarding,nanle.mohammed@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU470,Terhemba,Ekanem,Female,18,2006-10-02,Average,No,Bauchi,Oshodi-Isolo,"55, Avenue in Oshodi-Isolo, Lagos State",Boarding,terhemba.ekanem@laurelhigh.com,JSS3,General,Clubs,2021-09-01,2024-06-30
+STU471,Khadijah,Ene,Male,15,2009-02-25,Good,No,Edo,Shomolu,"33, Road in Shomolu, Lagos State",Day,khadijah.ene@laurelhigh.com,JSS3,General,Debate,2021-09-01,2024-06-30
+STU472,Augustina,Aminu,Male,16,2008-06-19,Average,No,Akwa Ibom,Apapa,"91, Avenue in Apapa, Lagos State",Day,augustina.aminu@laurelhigh.com,SS2,Engineering,"Drama, Music",2018-09-01,2019-06-30
+STU473,Ugonma,Uyieidem,Female,18,2006-07-04,Average,No,Katsina,Ojo,"3, Street in Ojo, Lagos State",Boarding,ugonma.uyieidem@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU474,Philip,Akinola,Male,11,2013-01-07,Good,No,Enugu,Eti-Osa,"17, Street in Eti-Osa, Lagos State",Day,philip.akinola@laurelhigh.com,JSS1,General,Music,2021-09-01,2026-06-30
+STU475,John-pius,Grace,Male,20,2004-02-10,Average,No,Borno,Ojo,"69, Street in Ojo, Lagos State",Day,john-pius.grace@laurelhigh.com,SS2,Pure Science,None,2020-09-01,2021-06-30
+STU476,Mary,Igwe,Female,17,2007-10-08,Good,No,Borno,Amuwo-Odofin,"3, Avenue in Amuwo-Odofin, Lagos State",Day,mary.igwe@laurelhigh.com,JSS1,General,"Debate, Sports",2017-09-01,2022-06-30
+STU477,Jamilu,Adeleke,Female,19,2005-09-10,Poor,No,Cross River,Amuwo-Odofin,"77, Road in Amuwo-Odofin, Lagos State",Day,jamilu.adeleke@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU478,Kelechi,Ahmad,Female,16,2008-09-03,Average,No,Nasarawa,Agege,"74, Avenue in Agege, Lagos State",Boarding,kelechi.ahmad@laurelhigh.com,JSS2,General,"Sports, Debate",2018-09-01,2022-06-30
+STU479,Oladipupo,Ekpe,Female,14,2010-08-12,Poor,No,Cross River,Kosofe,"93, Street in Kosofe, Lagos State",Boarding,oladipupo.ekpe@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU480,Musa,Anyanwu,Male,20,2004-06-26,Poor,No,Sokoto,Ojo,"84, Road in Ojo, Lagos State",Boarding,musa.anyanwu@laurelhigh.com,JSS3,General,Drama,2020-09-01,2023-06-30
+STU481,Mhungur,James,Female,19,2005-07-16,Average,No,Taraba,Kosofe,"63, Street in Kosofe, Lagos State",Boarding,mhungur.james@laurelhigh.com,JSS2,General,Sports,2020-09-01,2024-06-30
+STU482,Nanle,Yusuf,Female,10,2014-07-04,Good,No,Gombe,Badagry,"9, Avenue in Badagry, Lagos State",Boarding,nanle.yusuf@laurelhigh.com,SS1,Engineering,None,2021-09-01,2023-06-30
+STU483,Asukwo,Hassan,Male,14,2010-09-20,Average,No,Ebonyi,Ikorodu,"20, Road in Ikorodu, Lagos State",Day,asukwo.hassan@laurelhigh.com,SS1,Pure Science,Sports,2021-09-01,2023-06-30
+STU484,Bashar,Akinbode,Female,11,2013-02-28,Average,No,Osun,Badagry,"22, Road in Badagry, Lagos State",Boarding,bashar.akinbode@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU485,Kingsley,Mohammed,Female,12,2012-06-27,Good,No,Lagos,Ifako-Ijaye,"83, Avenue in Ifako-Ijaye, Lagos State",Day,kingsley.mohammed@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU486,Agai,Igbe,Male,18,2006-05-12,Good,Yes,Rivers,Eti-Osa,"22, Street in Eti-Osa, Lagos State",Boarding,agai.igbe@laurelhigh.com,SS2,Commercial,Music,2018-09-01,2019-06-30
+STU487,Isiyaka,Sogbetun,Male,16,2008-09-26,Average,No,Kaduna,Ojo,"53, Avenue in Ojo, Lagos State",Day,isiyaka.sogbetun@laurelhigh.com,SS1,Pure Science,None,2021-09-01,2023-06-30
+STU488,Blessing,Oshodi,Female,12,2012-07-25,Good,No,Anambra,Surulere,"56, Street in Surulere, Lagos State",Boarding,blessing.oshodi@laurelhigh.com,JSS1,General,"Sports, Drama",2020-09-01,2025-06-30
+STU489,Amomot,Ibiam,Female,15,2009-09-20,Poor,No,Osun,Lagos Island,"2, Avenue in Lagos Island, Lagos State",Boarding,amomot.ibiam@laurelhigh.com,SS3,Pure Science,Clubs,2018-09-01,2018-06-30
+STU490,Oladipupo,Grace,Male,11,2013-06-13,Good,No,Akwa Ibom,Eti-Osa,"5, Road in Eti-Osa, Lagos State",Boarding,oladipupo.grace@laurelhigh.com,SS2,Engineering,"Drama, Music",2020-09-01,2021-06-30
+STU491,Abiodun,Ekpe,Female,10,2014-05-08,Poor,No,Anambra,Agege,"70, Road in Agege, Lagos State",Boarding,abiodun.ekpe@laurelhigh.com,SS3,Pure Science,"Sports, Clubs",2019-09-01,2019-06-30
+STU492,Zaharudeen,Ogunyemi,Male,10,2014-02-15,Poor,No,Lagos,Ifako-Ijaye,"97, Road in Ifako-Ijaye, Lagos State",Day,zaharudeen.ogunyemi@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU493,Joseph,Isong,Female,20,2004-07-17,Poor,No,Zamfara,Ibeju-Lekki,"18, Road in Ibeju-Lekki, Lagos State",Boarding,joseph.isong@laurelhigh.com,SS2,Commercial,Music,2021-09-01,2022-06-30
+STU494,Felix,Ahmed,Female,11,2013-07-05,Good,Yes,Borno,Ojo,"12, Street in Ojo, Lagos State",Boarding,felix.ahmed@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU495,Binny,Ishaya,Male,20,2004-12-16,Good,No,Katsina,Amuwo-Odofin,"55, Avenue in Amuwo-Odofin, Lagos State",Boarding,binny.ishaya@laurelhigh.com,SS2,Art,None,2018-09-01,2019-06-30
+STU496,Temitope,Ajeigbe,Female,18,2006-04-15,Average,No,Edo,Badagry,"16, Road in Badagry, Lagos State",Day,temitope.ajeigbe@laurelhigh.com,JSS3,General,"Drama, Sports",2020-09-01,2023-06-30
+STU497,Emmanuel,Jayeola,Female,10,2014-02-12,Good,No,Enugu,Eti-Osa,"67, Street in Eti-Osa, Lagos State",Day,emmanuel.jayeola@laurelhigh.com,JSS2,General,None,2019-09-01,2023-06-30
+STU498,Atim,Oladipo,Female,16,2008-05-07,Good,No,Borno,Ibeju-Lekki,"7, Avenue in Ibeju-Lekki, Lagos State",Day,atim.oladipo@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU499,Khadijah,Osanyintipin,Male,19,2005-08-11,Poor,No,Kwara,Amuwo-Odofin,"40, Road in Amuwo-Odofin, Lagos State",Boarding,khadijah.osanyintipin@laurelhigh.com,SS2,Engineering,None,2018-09-01,2019-06-30
+STU500,Sadiq,Ejeh,Female,15,2009-11-20,Good,No,Delta,Ikeja,"12, Road in Ikeja, Lagos State",Boarding,sadiq.ejeh@laurelhigh.com,JSS3,General,"Drama, Sports",2020-09-01,2023-06-30
+STU501,Kingsley,Musa,Male,19,2005-05-18,Good,No,Benue,Agege,"81, Road in Agege, Lagos State",Day,kingsley.musa@laurelhigh.com,SS1,General,None,2017-09-01,2019-06-30
+STU502,Ngozi,Odumodu,Female,11,2013-03-01,Poor,No,Rivers,Agege,"85, Road in Agege, Lagos State",Day,ngozi.odumodu@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU503,Sodiq,Onyeka,Male,16,2008-08-28,Good,No,Ondo,Lagos Island,"76, Street in Lagos Island, Lagos State",Boarding,sodiq.onyeka@laurelhigh.com,SS3,Pure Science,None,2019-09-01,2019-06-30
+STU504,Bola,Ishaya,Female,11,2013-05-05,Poor,No,Katsina,Ifako-Ijaye,"70, Street in Ifako-Ijaye, Lagos State",Day,bola.ishaya@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU505,Sodiq,Okolie,Male,10,2014-02-11,Good,No,Abia,Agege,"39, Avenue in Agege, Lagos State",Day,sodiq.okolie@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU506,Lilian,Nnaemeka,Female,13,2011-09-13,Good,No,Kano,Ibeju-Lekki,"64, Road in Ibeju-Lekki, Lagos State",Day,lilian.nnaemeka@laurelhigh.com,SS3,General,None,2019-09-01,2019-06-30
+STU507,Felix,Stephen,Female,10,2014-10-22,Average,No,Kogi,Oshodi-Isolo,"35, Road in Oshodi-Isolo, Lagos State",Boarding,felix.stephen@laurelhigh.com,JSS1,General,Music,2017-09-01,2022-06-30
+STU508,Ufedo,Oladipo,Male,12,2012-03-26,Good,No,Benue,Mushin,"48, Road in Mushin, Lagos State",Day,ufedo.oladipo@laurelhigh.com,JSS1,General,"Clubs, Debate",2018-09-01,2023-06-30
+STU509,Bashar,Musa,Male,20,2004-01-16,Poor,No,Edo,Eti-Osa,"22, Street in Eti-Osa, Lagos State",Boarding,bashar.musa@laurelhigh.com,JSS2,General,"Debate, Drama",2019-09-01,2023-06-30
+STU510,Victor,Ogbozor,Female,11,2013-07-23,Good,No,Gombe,Ibeju-Lekki,"39, Street in Ibeju-Lekki, Lagos State",Day,victor.ogbozor@laurelhigh.com,JSS1,General,Drama,2020-09-01,2025-06-30
+STU511,Felicia,Lawal,Female,20,2004-08-09,Average,No,Lagos,Lagos Island,"34, Road in Lagos Island, Lagos State",Boarding,felicia.lawal@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU512,Christiana,Usman,Male,17,2007-11-06,Good,No,Bauchi,Epe,"1, Street in Epe, Lagos State",Day,christiana.usman@laurelhigh.com,JSS3,General,Clubs,2018-09-01,2021-06-30
+STU513,Esther,Saadu,Female,15,2009-06-13,Good,No,Kogi,Ifako-Ijaye,"49, Road in Ifako-Ijaye, Lagos State",Day,esther.saadu@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU514,Adebayo,Grace,Male,14,2010-06-07,Poor,No,Abuja,Agege,"88, Road in Agege, Lagos State",Boarding,adebayo.grace@laurelhigh.com,JSS1,General,Music,2017-09-01,2022-06-30
+STU515,Franklin,Olaleye,Female,17,2007-10-07,Average,No,Enugu,Shomolu,"91, Road in Shomolu, Lagos State",Boarding,franklin.olaleye@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU516,Paul,Ibiam,Female,20,2004-10-06,Good,No,Osun,Ibeju-Lekki,"88, Road in Ibeju-Lekki, Lagos State",Day,paul.ibiam@laurelhigh.com,JSS1,General,Music,2020-09-01,2025-06-30
+STU517,Cyril,Nnaemeka,Female,20,2004-11-18,Good,No,Ogun,Mushin,"3, Road in Mushin, Lagos State",Day,cyril.nnaemeka@laurelhigh.com,SS1,Pure Science,None,2017-09-01,2019-06-30
+STU518,Bassey,Ejugwu,Male,14,2010-09-15,Poor,No,Abia,Ojo,"16, Road in Ojo, Lagos State",Boarding,bassey.ejugwu@laurelhigh.com,JSS3,General,Music,2017-09-01,2020-06-30
+STU519,Sani,Elkanah,Male,15,2009-04-11,Good,No,Bayelsa,Ajeromi-Ifelodun,"1, Avenue in Ajeromi-Ifelodun, Lagos State",Day,sani.elkanah@laurelhigh.com,JSS1,General,"Music, Debate",2017-09-01,2022-06-30
+STU520,Bola,Yusuf,Female,11,2013-02-01,Good,Yes,Gombe,Eti-Osa,"81, Road in Eti-Osa, Lagos State",Day,bola.yusuf@laurelhigh.com,JSS3,General,Drama,2021-09-01,2024-06-30
+STU521,Augustina,Uwa,Male,10,2014-04-03,Good,No,Rivers,Lagos Island,"43, Road in Lagos Island, Lagos State",Day,augustina.uwa@laurelhigh.com,SS2,Pure Science,Debate,2017-09-01,2018-06-30
+STU522,Ngozi,Mohammed,Female,15,2009-03-02,Average,No,Nasarawa,Surulere,"89, Street in Surulere, Lagos State",Day,ngozi.mohammed@laurelhigh.com,SS3,General,None,2018-09-01,2018-06-30
+STU523,Jamilu,Adeleke,Male,14,2010-02-20,Good,No,Nasarawa,Alimosho,"49, Avenue in Alimosho, Lagos State",Boarding,jamilu.adeleke@laurelhigh.com,SS2,Engineering,Clubs,2020-09-01,2021-06-30
+STU524,Gerald,Kolapo,Male,19,2005-11-22,Poor,No,Edo,Epe,"13, Avenue in Epe, Lagos State",Day,gerald.kolapo@laurelhigh.com,SS2,Engineering,None,2018-09-01,2019-06-30
+STU525,Jamilu,Adeleke,Female,19,2005-03-21,Average,No,Abuja,Apapa,"25, Road in Apapa, Lagos State",Day,jamilu.adeleke@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU526,Nwanyinnaya,Yusuf,Male,12,2012-07-17,Good,No,Bauchi,Alimosho,"40, Road in Alimosho, Lagos State",Day,nwanyinnaya.yusuf@laurelhigh.com,SS3,Commercial,Clubs,2019-09-01,2019-06-30
+STU527,Ugonma,Okafor,Male,14,2010-09-19,Good,No,Zamfara,Lagos Island,"48, Street in Lagos Island, Lagos State",Boarding,ugonma.okafor@laurelhigh.com,SS1,General,None,2020-09-01,2022-06-30
+STU528,Abdullahi,Ogunyemi,Female,11,2013-11-16,Average,No,Yobe,Mushin,"44, Street in Mushin, Lagos State",Boarding,abdullahi.ogunyemi@laurelhigh.com,SS1,Engineering,Clubs,2018-09-01,2020-06-30
+STU529,Mary,Chukwu,Female,17,2007-04-01,Good,No,Anambra,Ifako-Ijaye,"6, Avenue in Ifako-Ijaye, Lagos State",Boarding,mary.chukwu@laurelhigh.com,SS1,Pure Science,Music,2020-09-01,2022-06-30
+STU530,Sodiq,Onyeka,Female,12,2012-01-03,Good,No,Imo,Surulere,"1, Avenue in Surulere, Lagos State",Boarding,sodiq.onyeka@laurelhigh.com,JSS2,General,None,2017-09-01,2021-06-30
+STU531,Bashar,Ogore,Male,13,2011-03-08,Poor,No,Enugu,Agege,"26, Avenue in Agege, Lagos State",Day,bashar.ogore@laurelhigh.com,SS3,Commercial,"Music, Clubs",2020-09-01,2020-06-30
+STU532,Zahra,Ajayi,Male,20,2004-11-26,Average,No,Katsina,Agege,"18, Avenue in Agege, Lagos State",Boarding,zahra.ajayi@laurelhigh.com,SS3,Art,None,2019-09-01,2019-06-30
+STU533,Johnson,Oyedepo,Female,19,2005-02-04,Poor,No,Enugu,Badagry,"56, Road in Badagry, Lagos State",Boarding,johnson.oyedepo@laurelhigh.com,JSS1,General,Music,2020-09-01,2025-06-30
+STU534,Mathew,Zarami,Female,19,2005-09-10,Good,No,Cross River,Alimosho,"76, Street in Alimosho, Lagos State",Day,mathew.zarami@laurelhigh.com,SS2,Art,None,2019-09-01,2020-06-30
+STU535,Felicia,Okoro,Female,13,2011-08-26,Poor,No,Lagos,Amuwo-Odofin,"94, Street in Amuwo-Odofin, Lagos State",Boarding,felicia.okoro@laurelhigh.com,SS1,Art,Clubs,2021-09-01,2023-06-30
+STU536,Isma'il,Ejeh,Male,15,2009-08-23,Good,No,Edo,Lagos Island,"68, Road in Lagos Island, Lagos State",Day,isma'il.ejeh@laurelhigh.com,SS3,Commercial,Clubs,2018-09-01,2018-06-30
+STU537,Maxwell,Bello,Male,16,2008-07-13,Average,No,Yobe,Oshodi-Isolo,"28, Avenue in Oshodi-Isolo, Lagos State",Day,maxwell.bello@laurelhigh.com,JSS3,General,None,2019-09-01,2022-06-30
+STU538,Ngozi,Odumodu,Female,18,2006-10-02,Average,No,Benue,Ajeromi-Ifelodun,"46, Street in Ajeromi-Ifelodun, Lagos State",Boarding,ngozi.odumodu@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU539,Sadiq,Olorunfemi,Male,15,2009-01-06,Average,No,Bayelsa,Amuwo-Odofin,"35, Avenue in Amuwo-Odofin, Lagos State",Boarding,sadiq.olorunfemi@laurelhigh.com,JSS3,General,Drama,2019-09-01,2022-06-30
+STU540,Augustina,Aminu,Male,20,2004-04-04,Poor,No,Lagos,Ikorodu,"11, Avenue in Ikorodu, Lagos State",Boarding,augustina.aminu@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU541,Bola,Yusuf,Female,20,2004-12-20,Poor,No,Anambra,Eti-Osa,"36, Street in Eti-Osa, Lagos State",Boarding,bola.yusuf@laurelhigh.com,SS3,Commercial,None,2017-09-01,2017-06-30
+STU542,Bashar,Akinbode,Male,19,2005-01-16,Good,No,Ebonyi,Surulere,"97, Road in Surulere, Lagos State",Boarding,bashar.akinbode@laurelhigh.com,SS1,Pure Science,None,2020-09-01,2022-06-30
+STU543,Chinonso,Okeke,Female,17,2007-06-26,Average,No,Ogun,Ikorodu,"93, Avenue in Ikorodu, Lagos State",Day,chinonso.okeke@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU544,Gerald,Isong,Male,15,2009-03-10,Poor,No,Delta,Agege,"18, Road in Agege, Lagos State",Boarding,gerald.isong@laurelhigh.com,SS3,Pure Science,"Drama, Clubs",2021-09-01,2021-06-30
+STU545,Paul,Jayeola,Female,15,2009-10-26,Good,No,Akwa Ibom,Eti-Osa,"76, Street in Eti-Osa, Lagos State",Boarding,paul.jayeola@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU546,Bola,Ishaya,Male,18,2006-08-04,Poor,No,Jigawa,Apapa,"50, Street in Apapa, Lagos State",Day,bola.ishaya@laurelhigh.com,JSS2,General,Drama,2018-09-01,2022-06-30
+STU547,Augustina,Sunday,Male,19,2005-03-07,Good,No,Osun,Alimosho,"63, Street in Alimosho, Lagos State",Boarding,augustina.sunday@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU548,Ternenge,Ebi,Male,10,2014-01-06,Poor,No,Ogun,Ajeromi-Ifelodun,"48, Road in Ajeromi-Ifelodun, Lagos State",Day,ternenge.ebi@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU549,Uchechukwu,Sanbauna,Female,16,2008-04-10,Poor,No,Bayelsa,Apapa,"27, Street in Apapa, Lagos State",Day,uchechukwu.sanbauna@laurelhigh.com,JSS3,General,None,2018-09-01,2021-06-30
+STU550,Lovina,Anaba,Female,10,2014-02-27,Poor,No,Edo,Mushin,"19, Avenue in Mushin, Lagos State",Boarding,lovina.anaba@laurelhigh.com,JSS2,General,Clubs,2020-09-01,2024-06-30
+STU551,Lovina,Njoku,Female,14,2010-06-23,Average,No,Oyo,Apapa,"83, Avenue in Apapa, Lagos State",Day,lovina.njoku@laurelhigh.com,SS3,Pure Science,Music,2019-09-01,2019-06-30
+STU552,Ternenge,Ahmad,Male,20,2004-10-04,Average,No,Cross River,Surulere,"24, Road in Surulere, Lagos State",Boarding,ternenge.ahmad@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU553,Cyril,Nnaemeka,Female,13,2011-09-04,Poor,No,Ondo,Apapa,"64, Avenue in Apapa, Lagos State",Boarding,cyril.nnaemeka@laurelhigh.com,SS3,General,Drama,2021-09-01,2021-06-30
+STU554,Clement,Baba,Female,10,2014-02-21,Good,No,Katsina,Badagry,"60, Street in Badagry, Lagos State",Day,clement.baba@laurelhigh.com,SS1,Pure Science,None,2018-09-01,2020-06-30
+STU555,Fatima,Nnamdi,Male,11,2013-06-22,Good,No,Kwara,Shomolu,"91, Street in Shomolu, Lagos State",Boarding,fatima.nnamdi@laurelhigh.com,SS2,Pure Science,None,2018-09-01,2019-06-30
+STU556,Sani,Adeleke,Male,12,2012-02-06,Average,No,Rivers,Kosofe,"3, Road in Kosofe, Lagos State",Day,sani.adeleke@laurelhigh.com,JSS2,General,Music,2017-09-01,2021-06-30
+STU557,Nanle,Mohammed,Male,15,2009-12-02,Average,No,Kebbi,Ajeromi-Ifelodun,"23, Street in Ajeromi-Ifelodun, Lagos State",Day,nanle.mohammed@laurelhigh.com,SS3,Art,None,2017-09-01,2017-06-30
+STU558,Ngozi,Uwa,Male,19,2005-07-25,Average,No,Zamfara,Alimosho,"1, Street in Alimosho, Lagos State",Day,ngozi.uwa@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU559,Philip,Omora,Male,10,2014-11-22,Poor,No,Kogi,Agege,"44, Street in Agege, Lagos State",Day,philip.omora@laurelhigh.com,JSS1,General,Music,2021-09-01,2026-06-30
+STU560,Ijeoma,Onyeka,Female,15,2009-04-20,Good,No,Lagos,Lagos Island,"72, Road in Lagos Island, Lagos State",Day,ijeoma.onyeka@laurelhigh.com,JSS1,General,None,2017-09-01,2022-06-30
+STU561,Chinedu,Okeke,Male,15,2009-07-21,Average,No,Jigawa,Lagos Mainland,"23, Street in Lagos Mainland, Lagos State",Day,chinedu.okeke@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU562,Umahi,Akinlade,Male,10,2014-07-10,Poor,No,Kebbi,Lagos Mainland,"9, Street in Lagos Mainland, Lagos State",Boarding,umahi.akinlade@laurelhigh.com,SS2,General,Clubs,2018-09-01,2019-06-30
+STU563,Zainab,Odugu,Female,20,2004-11-25,Average,No,Plateau,Lagos Island,"90, Avenue in Lagos Island, Lagos State",Day,zainab.odugu@laurelhigh.com,SS1,Art,Drama,2019-09-01,2021-06-30
+STU564,Chidiebere,Ogunleye,Male,17,2007-11-24,Good,No,Kogi,Ibeju-Lekki,"49, Road in Ibeju-Lekki, Lagos State",Day,chidiebere.ogunleye@laurelhigh.com,JSS1,General,Sports,2017-09-01,2022-06-30
+STU565,Daniel,Udo,Male,16,2008-10-03,Good,No,Adamawa,Oshodi-Isolo,"97, Street in Oshodi-Isolo, Lagos State",Day,daniel.udo@laurelhigh.com,JSS1,General,None,2019-09-01,2024-06-30
+STU566,Emmanuel,Igbe,Female,19,2005-06-05,Average,No,Jigawa,Oshodi-Isolo,"57, Road in Oshodi-Isolo, Lagos State",Day,emmanuel.igbe@laurelhigh.com,JSS2,General,Debate,2021-09-01,2025-06-30
+STU567,Franklin,Adebayo,Male,13,2011-11-08,Poor,No,Anambra,Oshodi-Isolo,"70, Street in Oshodi-Isolo, Lagos State",Boarding,franklin.adebayo@laurelhigh.com,SS3,Engineering,"Clubs, Drama",2020-09-01,2020-06-30
+STU568,Nihinlola,Okwe,Male,11,2013-11-05,Good,No,Abuja,Amuwo-Odofin,"25, Street in Amuwo-Odofin, Lagos State",Day,nihinlola.okwe@laurelhigh.com,SS3,General,None,2020-09-01,2020-06-30
+STU569,Hassan,Ogunyemi,Female,14,2010-04-08,Good,No,Benue,Ajeromi-Ifelodun,"22, Road in Ajeromi-Ifelodun, Lagos State",Boarding,hassan.ogunyemi@laurelhigh.com,JSS3,General,None,2017-09-01,2020-06-30
+STU570,Franklin,Olaleye,Male,11,2013-07-06,Good,Yes,Yobe,Amuwo-Odofin,"47, Avenue in Amuwo-Odofin, Lagos State",Boarding,franklin.olaleye@laurelhigh.com,JSS3,General,Debate,2018-09-01,2021-06-30
+STU571,Temitope,Adeola,Female,14,2010-03-18,Average,Yes,Imo,Apapa,"77, Road in Apapa, Lagos State",Boarding,temitope.adeola@laurelhigh.com,SS2,Pure Science,None,2019-09-01,2020-06-30
+STU572,Emmanuel,Igbe,Female,11,2013-12-16,Poor,No,Osun,Amuwo-Odofin,"43, Street in Amuwo-Odofin, Lagos State",Boarding,emmanuel.igbe@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU573,Ebisu,Oyeniran,Male,16,2008-11-19,Poor,No,Bayelsa,Lagos Mainland,"63, Avenue in Lagos Mainland, Lagos State",Day,ebisu.oyeniran@laurelhigh.com,JSS1,General,"Sports, Debate",2021-09-01,2026-06-30
+STU574,Kingsley,Mohammed,Male,18,2006-11-23,Poor,No,Cross River,Lagos Mainland,"91, Avenue in Lagos Mainland, Lagos State",Day,kingsley.mohammed@laurelhigh.com,JSS2,General,Debate,2021-09-01,2025-06-30
+STU575,Peter,Adebayo,Male,20,2004-05-20,Poor,Yes,Kwara,Agege,"83, Street in Agege, Lagos State",Day,peter.adebayo@laurelhigh.com,JSS3,General,None,2020-09-01,2023-06-30
+STU576,Sunday,Okafor,Female,19,2005-04-14,Poor,Yes,Benue,Surulere,"11, Road in Surulere, Lagos State",Boarding,sunday.okafor@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU577,Mansir,Saadu,Male,11,2013-06-27,Average,No,Zamfara,Apapa,"82, Road in Apapa, Lagos State",Day,mansir.saadu@laurelhigh.com,JSS1,General,"Debate, Drama",2020-09-01,2025-06-30
+STU578,Amadi,Omora,Male,11,2013-07-17,Average,No,Ekiti,Ifako-Ijaye,"100, Road in Ifako-Ijaye, Lagos State",Boarding,amadi.omora@laurelhigh.com,JSS3,General,Music,2019-09-01,2022-06-30
+STU579,Sodiq,Grace,Male,12,2012-08-19,Poor,No,Bauchi,Amuwo-Odofin,"65, Street in Amuwo-Odofin, Lagos State",Day,sodiq.grace@laurelhigh.com,SS3,Art,None,2020-09-01,2020-06-30
+STU580,Joseph,Amus,Female,11,2013-02-10,Poor,Yes,Bayelsa,Epe,"82, Street in Epe, Lagos State",Day,joseph.amus@laurelhigh.com,JSS1,General,None,2021-09-01,2026-06-30
+STU581,Musa,Olorunfemi,Male,20,2004-01-02,Average,No,Kano,Amuwo-Odofin,"98, Street in Amuwo-Odofin, Lagos State",Day,musa.olorunfemi@laurelhigh.com,JSS2,General,Sports,2021-09-01,2025-06-30
+STU582,Adeola,Musa,Female,18,2006-08-16,Average,No,Abuja,Epe,"98, Avenue in Epe, Lagos State",Boarding,adeola.musa@laurelhigh.com,SS2,Pure Science,None,2017-09-01,2018-06-30
+STU583,Zayyanu,Afolayan,Female,16,2008-06-28,Poor,No,Kano,Surulere,"79, Street in Surulere, Lagos State",Day,zayyanu.afolayan@laurelhigh.com,JSS2,General,None,2021-09-01,2025-06-30
+STU584,Mathew,Adebayo,Male,13,2011-10-22,Poor,No,Adamawa,Shomolu,"48, Avenue in Shomolu, Lagos State",Day,mathew.adebayo@laurelhigh.com,SS1,Engineering,None,2018-09-01,2020-06-30
+STU585,Roseline,Egbon,Male,10,2014-11-15,Average,No,Abia,Lagos Mainland,"95, Avenue in Lagos Mainland, Lagos State",Boarding,roseline.egbon@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU586,Joy,Olaleye,Female,14,2010-12-05,Good,No,Rivers,Surulere,"78, Street in Surulere, Lagos State",Day,joy.olaleye@laurelhigh.com,SS3,Engineering,None,2017-09-01,2017-06-30
+STU587,Gbenga,Ajibola,Male,17,2007-11-18,Poor,No,Osun,Kosofe,"15, Avenue in Kosofe, Lagos State",Day,gbenga.ajibola@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU588,Sunday,Yaro,Female,16,2008-04-24,Good,Yes,Kogi,Lagos Island,"99, Avenue in Lagos Island, Lagos State",Day,sunday.yaro@laurelhigh.com,JSS2,General,"Sports, Music",2018-09-01,2022-06-30
+STU589,Isong,Yahaya,Male,19,2005-06-13,Poor,No,Anambra,Ibeju-Lekki,"9, Road in Ibeju-Lekki, Lagos State",Boarding,isong.yahaya@laurelhigh.com,SS3,Engineering,"Debate, Music",2018-09-01,2018-06-30
+STU590,Sunday,Okafor,Female,11,2013-10-07,Poor,No,Sokoto,Ifako-Ijaye,"44, Road in Ifako-Ijaye, Lagos State",Boarding,sunday.okafor@laurelhigh.com,SS2,Engineering,None,2021-09-01,2022-06-30
+STU591,Joseph,Abubakar,Male,19,2005-07-14,Poor,No,Abuja,Alimosho,"69, Street in Alimosho, Lagos State",Day,joseph.abubakar@laurelhigh.com,JSS2,General,Music,2019-09-01,2023-06-30
+STU592,Yohanna,Yahaya,Male,15,2009-04-16,Poor,Yes,Abuja,Ajeromi-Ifelodun,"19, Avenue in Ajeromi-Ifelodun, Lagos State",Boarding,yohanna.yahaya@laurelhigh.com,SS1,Engineering,None,2020-09-01,2022-06-30
+STU593,Ude,Udofia,Female,19,2005-04-16,Good,No,Lagos,Shomolu,"62, Road in Shomolu, Lagos State",Day,ude.udofia@laurelhigh.com,JSS2,General,None,2018-09-01,2022-06-30
+STU594,Asukwo,Idris,Female,12,2012-07-10,Average,No,Jigawa,Alimosho,"63, Road in Alimosho, Lagos State",Boarding,asukwo.idris@laurelhigh.com,SS3,General,Drama,2020-09-01,2020-06-30
+STU595,Bisi,Mohammed,Female,18,2006-05-23,Average,No,Akwa Ibom,Apapa,"94, Avenue in Apapa, Lagos State",Day,bisi.mohammed@laurelhigh.com,SS3,Pure Science,None,2017-09-01,2017-06-30
+STU596,Felicia,Okoro,Male,19,2005-12-16,Good,No,Zamfara,Kosofe,"18, Avenue in Kosofe, Lagos State",Day,felicia.okoro@laurelhigh.com,JSS2,General,None,2020-09-01,2024-06-30
+STU597,Samuel,Danladi,Male,16,2008-03-02,Average,No,Oyo,Ikeja,"55, Road in Ikeja, Lagos State",Day,samuel.danladi@laurelhigh.com,JSS1,General,None,2018-09-01,2023-06-30
+STU598,Mhungur,Ekanem,Female,12,2012-07-08,Average,No,Anambra,Ojo,"81, Road in Ojo, Lagos State",Day,mhungur.ekanem@laurelhigh.com,JSS1,General,None,2020-09-01,2025-06-30
+STU599,Vivian,Oluwasanmi,Male,20,2004-11-21,Average,No,Imo,Ajeromi-Ifelodun,"49, Avenue in Ajeromi-Ifelodun, Lagos State",Day,vivian.oluwasanmi@laurelhigh.com,JSS3,General,None,2021-09-01,2024-06-30
+STU600,Adamu,Elaigwu,Female,19,2005-08-09,Average,No,Lagos,Agege,"74, Road in Agege, Lagos State",Boarding,adamu.elaigwu@laurelhigh.com,SS1,Engineering,None,2021-09-01,2023-06-30

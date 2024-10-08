@@ -2,8 +2,8 @@
 venv/
 
 # Ignore data files
-data/*.csv
-data/*.xlsx
+# data/*.csv
+# data/*.xlsx
 
 # Ignore serialized models
 models/*.pkl
