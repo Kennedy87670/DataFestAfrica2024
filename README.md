@@ -1,4 +1,3 @@
-```markdown
 
 # DataFestAfrica Hackathon 2024: Improving Academic Outcomes For Secondary Education
 
@@ -7,7 +6,7 @@
 **Building a Data-Driven Solution for Laurel High School**
 
 ### Description
-This project aims to improve academic outcomes for students in secondary education by building a comprehensive data-driven solution. The solution involves developing methods for data collection, structuring, and analysis to identify critical factors affecting student performance. It also includes building predictive models to assess student performance and offering actionable insights for school administrators and stakeholders.
+This project aims to improve academic outcomes for secondary education students by building a comprehensive data-driven solution. The solution involves developing data collection, structuring, and analysis methods to identify critical factors affecting student performance. It also includes building predictive models to assess student performance and offering school administrators and stakeholders actionable insights.
 
 ### Project Objective:
 To enhance students' academic performance at Laurel High School by leveraging data-driven insights to address educational challenges such as teacher availability, infrastructure quality, and student performance patterns.
@@ -36,7 +35,7 @@ The quality of education at Laurel High has faced several challenges that hinder
 
 The project is organized into the following directories and files:
 
-```
+
 project-directory/
 │
 ├── README.md                  # Project documentation
@@ -47,6 +46,7 @@ project-directory/
     |-- analysis_walk_though  # Contains Average score analys
     |-- health_impact_on_performance.ipynb  #Conatins impact of student's health status on their academic performance 
     |-- survey.ipynb #contains analysis done on the survey data
+    |-- survey_analysis.html  #contains the pandas_profiler analysis done on the survey data
 ├── data/                      # Contains raw and processed data files
 │   ├── students_bio_data.csv  
 │   ├── parents_data.csv       
@@ -119,27 +119,16 @@ python scripts/main.py
 - `data/`: Contains generated CSV files for students, parents, and teachers.
 - `scripts/`: Holds the scripts for data generation and feature engineering.
 - `analysis/`: Source code for data analysis.
-- `notebooks/`: Jupyter notebooks for modelling.
+- `notebooks/`: Jupyter notebooks for modeling.
 
 ---
 
 ## 📊 Results and Findings
 1. **Identified Key Factors**: Highlighted that parental engagement, teacher qualifications,test_scores, exam_scores are strong predictors of student success.
 2. **Built Predictive Models**: Implemented Logistic Regression, Decision Trees, and XGBoost with an accuracy of up to 100% for the `Pass/Fail` prediction.
-3. **SHAP Analysis**: Used SHAP values to interpret the contribution of features to model predictions, showing that `Study Hours`, `Teacher Experience`, and `Parental Involvement` have significant impacts.
 
 ---
 
-## 🤝 Contributing
-We welcome contributions to improve this project! If you would like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Create a pull request.
-
----
 
 ## 🙏 Acknowledgments
 - **DataFestAfrica Hackathon 2024** for providing a great platform and inspiration for this project.
