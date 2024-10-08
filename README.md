@@ -137,15 +137,13 @@ project-directory/
 2. **Built Predictive Models**:
    - Implemented Logistic Regression, Decision Trees, and XGBoost with an accuracy of up to 100% for the `Pass/Fail` prediction.
    
-3. **SHAP Analysis**:
-   - Used SHAP values to interpret the contribution of features to model predictions, showing that `Study Hours`, `Teacher Experience`, and `Parental Involvement` have significant impacts.
 
 ---
 
 ## 🙏 Acknowledgments
 
 - **DataFestAfrica Hackathon 2024** for providing a great platform and inspiration for this project.
-- **Laurel High School** (fictional) for the problem context.
+- **Laurel High School** for the problem context.
 - **All contributors** for their help in building this project.
 
 ---
