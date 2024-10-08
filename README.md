@@ -29,7 +29,7 @@ The quality of education at Laurel High has faced several challenges that hinder
 - **Visualization**: `matplotlib`, `seaborn`, `SHAP`
 - **Machine Learning**: `scikit-learn`, `xgboost`, `optuna`
 - **Data Preprocessing**: `scikit-learn`, `pandas`
-- **Deployment**: `Streamlit`, `Flask` (optional for visualization)
+
 
 ---
 
