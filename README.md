@@ -115,6 +115,12 @@ project-directory/
    python scripts/main.py
    ```
 
+a. **My Data Engineer's pipeline**
+     ```bash
+   git clone https://github.com/Kennedy87670/DataFestAfrica2024.git](https://github.com/amaechichisom/team-zero-data-engineering/tree/main
+   
+   ```
+
 2. **Analyze Data**:
    Open the Jupyter notebooks under the `notebooks/` directory for analysis and modeling.
 
