@@ -1,4 +1,3 @@
-Here's the complete `README.md` file formatted for your project:
 
 ---
 
@@ -157,4 +156,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-You can adjust or expand on any section as needed. Let me know if there are additional customizations you would like to make!
