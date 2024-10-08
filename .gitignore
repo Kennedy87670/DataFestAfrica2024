@@ -1,0 +1,16 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore data files
+data/*.csv
+data/*.xlsx
+
+# Ignore serialized models
+models/*.pkl
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore system files
+__pycache__/
+*.py[cod]
