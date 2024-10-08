@@ -144,6 +144,7 @@ project-directory/
 
 - **DataFestAfrica Hackathon 2024** for providing a great platform and inspiration for this project.
 - **Laurel High School** for the problem context.
+- **TEAM ZERO** for collaborative efforts in building this solution.
 - **All contributors** for their help in building this project.
 
 ---
